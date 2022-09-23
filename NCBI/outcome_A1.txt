@@ -1,0 +1,3430 @@
+
+dataset:Train
+0.9858169554296072
+0.9243480647817732
+0.9314303100710868
+0.9278756733670419
+              precision    recall  f1-score   support
+
+    Chemical       0.92      0.93      0.93     72306
+
+   micro avg       0.92      0.93      0.93     72306
+   macro avg       0.92      0.93      0.93     72306
+weighted avg       0.92      0.93      0.93     72306
+
+
+dataset:Dev
+0.8579013746506047
+0.49366769261819465
+0.5373019577692962
+0.514561447335551
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8573846586832519
+0.4932590095929479
+0.527490503784623
+0.5098007690555622
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9874470030758999
+0.9369954223886808
+0.9341963322545846
+0.935593783761323
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.93      0.94     72306
+
+   micro avg       0.94      0.93      0.94     72306
+   macro avg       0.94      0.93      0.94     72306
+weighted avg       0.94      0.93      0.94     72306
+
+
+dataset:Dev
+0.8570632212764443
+0.49663529715096044
+0.5288997501304264
+0.5122599861709484
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36419
+
+   micro avg       0.50      0.53      0.51     36419
+   macro avg       0.50      0.53      0.51     36419
+weighted avg       0.50      0.53      0.51     36419
+
+
+dataset:Test
+0.8571626769412501
+0.49698899058230533
+0.5194221864862617
+0.5079580271684607
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9874209223135593
+0.9371374649607283
+0.9339750504799048
+0.935553585282057
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.93      0.94     72306
+
+   micro avg       0.94      0.93      0.94     72306
+   macro avg       0.94      0.93      0.94     72306
+weighted avg       0.94      0.93      0.94     72306
+
+
+dataset:Dev
+0.8570315928472307
+0.49710713916726934
+0.5284604190120541
+0.5123045185333067
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36419
+
+   micro avg       0.50      0.53      0.51     36419
+   macro avg       0.50      0.53      0.51     36419
+weighted avg       0.50      0.53      0.51     36419
+
+
+dataset:Test
+0.8570794337879996
+0.49693121130802137
+0.5185626750214878
+0.5075165526972756
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9874095119800351
+0.9374496681569521
+0.9337675988161425
+0.9356050108087135
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.93      0.94     72306
+
+   micro avg       0.94      0.93      0.94     72306
+   macro avg       0.94      0.93      0.94     72306
+weighted avg       0.94      0.93      0.94     72306
+
+
+dataset:Dev
+0.8570474070618376
+0.4975944128297982
+0.5282132952579698
+0.5124468892766287
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36419
+
+   micro avg       0.50      0.53      0.51     36419
+   macro avg       0.50      0.53      0.51     36419
+weighted avg       0.50      0.53      0.51     36419
+
+
+dataset:Test
+0.8571190733847855
+0.49758981597379426
+0.5180358776721102
+0.5076070419474028
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9873932115035723
+0.9372233400402414
+0.9340995214781622
+0.9356588234479223
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.93      0.94     72306
+
+   micro avg       0.94      0.93      0.94     72306
+   macro avg       0.94      0.93      0.94     72306
+weighted avg       0.94      0.93      0.94     72306
+
+
+dataset:Dev
+0.8572332240834675
+0.4977896124712391
+0.5287075427661385
+0.5127829560585885
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36419
+
+   micro avg       0.50      0.53      0.51     36419
+   macro avg       0.50      0.53      0.51     36419
+weighted avg       0.50      0.53      0.51     36419
+
+
+dataset:Test
+0.8570873617073567
+0.4977095983807393
+0.5181467823772423
+0.5077226108809346
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9873443100741834
+0.9368117389254113
+0.9341686720327497
+0.9354883385961997
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.93      0.94     72306
+
+   micro avg       0.94      0.93      0.94     72306
+   macro avg       0.94      0.93      0.94     72306
+weighted avg       0.94      0.93      0.94     72306
+
+
+dataset:Dev
+0.8573122951565014
+0.4975830425229417
+0.5285427935967489
+0.5125958670643375
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36419
+
+   micro avg       0.50      0.53      0.51     36419
+   macro avg       0.50      0.53      0.51     36419
+weighted avg       0.50      0.53      0.51     36419
+
+
+dataset:Test
+0.8572815957316082
+0.4978581881069576
+0.5188122106080351
+0.5081192635637866
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9873068189783187
+0.9360850722089143
+0.9349846485768816
+0.9355345367993524
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.93      0.94     72306
+
+   micro avg       0.94      0.93      0.94     72306
+   macro avg       0.94      0.93      0.94     72306
+weighted avg       0.94      0.93      0.94     72306
+
+
+dataset:Dev
+0.8573755520149287
+0.49681676418279763
+0.5292567066641038
+0.5125239310784939
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36419
+
+   micro avg       0.50      0.53      0.51     36419
+   macro avg       0.50      0.53      0.51     36419
+weighted avg       0.50      0.53      0.51     36419
+
+
+dataset:Test
+0.8574441180784309
+0.4977178643456109
+0.5200321623644883
+0.5086303914523194
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9872791081683318
+0.9353344578713049
+0.9355931734572511
+0.9354637977764255
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.94      0.94     72306
+
+   micro avg       0.94      0.94      0.94     72306
+   macro avg       0.94      0.94      0.94     72306
+weighted avg       0.94      0.94      0.94     72306
+
+
+dataset:Dev
+0.8574269482124007
+0.4963712168004941
+0.5295862050028831
+0.512441049485221
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36419
+
+   micro avg       0.50      0.53      0.51     36419
+   macro avg       0.50      0.53      0.51     36419
+weighted avg       0.50      0.53      0.51     36419
+
+
+dataset:Test
+0.8575392531107173
+0.4968506854390515
+0.5205312335375828
+0.5084153656588086
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9872513973583448
+0.9347600966517087
+0.9362985091140431
+0.93552867042997
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8574585766416143
+0.4959036392120605
+0.530190285290645
+0.5124741228302989
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36419
+
+   micro avg       0.50      0.53      0.51     36419
+   macro avg       0.50      0.53      0.51     36419
+weighted avg       0.50      0.53      0.51     36419
+
+
+dataset:Test
+0.8575987125058964
+0.4962640264026403
+0.5211412094158094
+0.5083984744799978
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9872644377395151
+0.9344445517641052
+0.9366027715542279
+0.9355224169251066
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8574388088733558
+0.4957528164857444
+0.5304374090447294
+0.5125089539171729
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36419
+
+   micro avg       0.50      0.53      0.51     36419
+   macro avg       0.50      0.53      0.51     36419
+weighted avg       0.50      0.53      0.51     36419
+
+
+dataset:Test
+0.8576106043849322
+0.4958865098618289
+0.5214184711786397
+0.5083320944439188
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9872774781206854
+0.9344388951739743
+0.9367134124415678
+0.9355747713898942
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8574585766416143
+0.49580478793010546
+0.5305747000192207
+0.5126008064516129
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36419
+
+   micro avg       0.50      0.53      0.51     36419
+   macro avg       0.50      0.53      0.51     36419
+weighted avg       0.50      0.53      0.51     36419
+
+
+dataset:Test
+0.8576106043849322
+0.4957557863657932
+0.5214184711786397
+0.508263401845921
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9872628076918688
+0.933896599727096
+0.93708682543634
+0.9354889927446689
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.857502065731783
+0.49535246972063607
+0.5311787803069826
+0.5126404494382023
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36419
+
+   micro avg       0.50      0.53      0.51     36419
+   macro avg       0.50      0.53      0.51     36419
+weighted avg       0.50      0.53      0.51     36419
+
+
+dataset:Test
+0.8576185323042894
+0.49517549625345075
+0.5221948041145645
+0.5083263609619173
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9873182293118428
+0.933661880704266
+0.9380134428678119
+0.9358326031914674
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8575732296975136
+0.49476613562091504
+0.5321123589335237
+0.5127601307103073
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36419
+
+   micro avg       0.49      0.53      0.51     36419
+   macro avg       0.49      0.53      0.51     36419
+weighted avg       0.49      0.53      0.51     36419
+
+
+dataset:Test
+0.8575788927075034
+0.49444415325750823
+0.5231097679319046
+0.5083731896261368
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.52      0.51     36067
+
+   micro avg       0.49      0.52      0.51     36067
+   macro avg       0.49      0.52      0.51     36067
+weighted avg       0.49      0.52      0.51     36067
+
+
+dataset:Train
+0.9873443100741834
+0.9332499243819946
+0.9387740989682737
+0.9360038610038609
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.857620672341334
+0.4943116744292586
+0.5332930613141492
+0.5130630035662396
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36419
+
+   micro avg       0.49      0.53      0.51     36419
+   macro avg       0.49      0.53      0.51     36419
+weighted avg       0.49      0.53      0.51     36419
+
+
+dataset:Test
+0.8575709647881462
+0.49351191874885775
+0.5240801841018106
+0.5083369191049915
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.52      0.51     36067
+
+   micro avg       0.49      0.52      0.51     36067
+   macro avg       0.49      0.52      0.51     36067
+weighted avg       0.49      0.52      0.51     36067
+
+
+dataset:Train
+0.9873573504553538
+0.9329048913789789
+0.9395624152905706
+0.9362218179813682
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.857660207877851
+0.49399487088337607
+0.5341991817457921
+0.5133109944328647
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36419
+
+   micro avg       0.49      0.53      0.51     36419
+   macro avg       0.49      0.53      0.51     36419
+weighted avg       0.49      0.53      0.51     36419
+
+
+dataset:Test
+0.8576542079413968
+0.49307435950843576
+0.5250783264479996
+0.5085733467606579
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9872937785971484
+0.9327290207389095
+0.9392304926285509
+0.9359684666060255
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8576681149851544
+0.4941669843690431
+0.5338696834070128
+0.5132516762578534
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36419
+
+   micro avg       0.49      0.53      0.51     36419
+   macro avg       0.49      0.53      0.51     36419
+weighted avg       0.49      0.53      0.51     36419
+
+
+dataset:Test
+0.8576502439817182
+0.49336669533713867
+0.5248287908614523
+0.5086116559636725
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.52      0.51     36067
+
+   micro avg       0.49      0.52      0.51     36067
+   macro avg       0.49      0.52      0.51     36067
+weighted avg       0.49      0.52      0.51     36067
+
+
+dataset:Train
+0.9872807382159781
+0.9326722338204593
+0.9391475119630459
+0.9358986727676172
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8576167187876823
+0.4939269197540275
+0.5337323924325215
+0.5130587412402835
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36419
+
+   micro avg       0.49      0.53      0.51     36419
+   macro avg       0.49      0.53      0.51     36419
+weighted avg       0.49      0.53      0.51     36419
+
+
+dataset:Test
+0.8576502439817182
+0.4934966766584126
+0.5249396955665844
+0.5087328030954428
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.52      0.51     36067
+
+   micro avg       0.49      0.52      0.51     36067
+   macro avg       0.49      0.52      0.51     36067
+weighted avg       0.49      0.52      0.51     36067
+
+
+dataset:Train
+0.9872742180253928
+0.9326219219095491
+0.9391613420739634
+0.9358802086563439
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8576404401095925
+0.4939771283354511
+0.5337323924325215
+0.5130858266573401
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36419
+
+   micro avg       0.49      0.53      0.51     36419
+   macro avg       0.49      0.53      0.51     36419
+weighted avg       0.49      0.53      0.51     36419
+
+
+dataset:Test
+0.8576660998204326
+0.4934963376169747
+0.5249119693903014
+0.5087196023108962
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.52      0.51     36067
+
+   micro avg       0.49      0.52      0.51     36067
+   macro avg       0.49      0.52      0.51     36067
+weighted avg       0.49      0.52      0.51     36067
+
+
+dataset:Train
+0.9872660677871614
+0.9331151508484365
+0.9384836666390064
+0.9357917091871915
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8576641614315027
+0.49444755743466967
+0.5330459375600648
+0.5130217623974312
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36419
+
+   micro avg       0.49      0.53      0.51     36419
+   macro avg       0.49      0.53      0.51     36419
+weighted avg       0.49      0.53      0.51     36419
+
+
+dataset:Test
+0.8576185323042894
+0.49418376682786563
+0.5241633626306597
+0.5087322730819945
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.52      0.51     36067
+
+   micro avg       0.49      0.52      0.51     36067
+   macro avg       0.49      0.52      0.51     36067
+weighted avg       0.49      0.52      0.51     36067
+
+
+dataset:Train
+0.9872791081683318
+0.9332608904966919
+0.938359195640749
+0.9358030991607301
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8576325330022891
+0.49443241177220026
+0.5327988138059804
+0.5128991330090928
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36419
+
+   micro avg       0.49      0.53      0.51     36419
+   macro avg       0.49      0.53      0.51     36419
+weighted avg       0.49      0.53      0.51     36419
+
+
+dataset:Test
+0.8575749287478248
+0.4943493956992623
+0.5239415532203954
+0.50871549136527
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.52      0.51     36067
+
+   micro avg       0.49      0.52      0.51     36067
+   macro avg       0.49      0.52      0.51     36067
+weighted avg       0.49      0.52      0.51     36067
+
+
+dataset:Train
+0.9872839983112707
+0.9334691013168577
+0.9382070644206566
+0.935832086026252
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8575969510194238
+0.49441753759877644
+0.5325791482467943
+0.5127893296672791
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36419
+
+   micro avg       0.49      0.53      0.51     36419
+   macro avg       0.49      0.53      0.51     36419
+weighted avg       0.49      0.53      0.51     36419
+
+
+dataset:Test
+0.8576898835785043
+0.49455668376426254
+0.5239692793966784
+0.5088382988462419
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.52      0.51     36067
+
+   micro avg       0.49      0.52      0.51     36067
+   macro avg       0.49      0.52      0.51     36067
+weighted avg       0.49      0.52      0.51     36067
+
+
+dataset:Train
+0.9873035588830261
+0.933735271445876
+0.9381517439769866
+0.935938297666846
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8576009045730755
+0.49454193021832277
+0.5324143990774046
+0.5127798273103521
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36419
+
+   micro avg       0.49      0.53      0.51     36419
+   macro avg       0.49      0.53      0.51     36419
+weighted avg       0.49      0.53      0.51     36419
+
+
+dataset:Test
+0.8576859196188257
+0.4946585672392124
+0.5238029223389802
+0.5088137464819079
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.52      0.51     36067
+
+   micro avg       0.49      0.52      0.51     36067
+   macro avg       0.49      0.52      0.51     36067
+weighted avg       0.49      0.52      0.51     36067
+
+
+dataset:Train
+0.9873508302647687
+0.9340896886918448
+0.9382623848643266
+0.9361713871735605
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8575495083756034
+0.4943645450836393
+0.5323320244927099
+0.5126462616513519
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36419
+
+   micro avg       0.49      0.53      0.51     36419
+   macro avg       0.49      0.53      0.51     36419
+weighted avg       0.49      0.53      0.51     36419
+
+
+dataset:Test
+0.8576978114978614
+0.4944758613467379
+0.5236642914575651
+0.5086516838802634
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.52      0.51     36067
+
+   micro avg       0.49      0.52      0.51     36067
+   macro avg       0.49      0.52      0.51     36067
+weighted avg       0.49      0.52      0.51     36067
+
+
+dataset:Train
+0.9874225523612055
+0.9346211609738623
+0.9381240837551517
+0.936369346300118
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8575416012683
+0.4945405377825399
+0.5322771081029133
+0.51271539468638
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36419
+
+   micro avg       0.49      0.53      0.51     36419
+   macro avg       0.49      0.53      0.51     36419
+weighted avg       0.49      0.53      0.51     36419
+
+
+dataset:Test
+0.857563036868789
+0.49427665872121956
+0.5231929464607536
+0.5083239049620172
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.52      0.51     36067
+
+   micro avg       0.49      0.52      0.51     36067
+   macro avg       0.49      0.52      0.51     36067
+weighted avg       0.49      0.52      0.51     36067
+
+
+dataset:Train
+0.9874763439335332
+0.9351138196809464
+0.9379719525350594
+0.9365407055021991
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.94      0.94     72306
+
+   micro avg       0.94      0.94      0.94     72306
+   macro avg       0.94      0.94      0.94     72306
+weighted avg       0.94      0.94      0.94     72306
+
+
+dataset:Dev
+0.8575336941609966
+0.49483167861973915
+0.5323594826876081
+0.5129100529100529
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36419
+
+   micro avg       0.49      0.53      0.51     36419
+   macro avg       0.49      0.53      0.51     36419
+weighted avg       0.49      0.53      0.51     36419
+
+
+dataset:Test
+0.8575273612316816
+0.49450664708812964
+0.5228879585216403
+0.5083014392755107
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.52      0.51     36067
+
+   micro avg       0.49      0.52      0.51     36067
+   macro avg       0.49      0.52      0.51     36067
+weighted avg       0.49      0.52      0.51     36067
+
+
+dataset:Train
+0.9875154650770442
+0.9348889103155691
+0.9386772881918513
+0.936779269176357
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8576246258949857
+0.49401883430898447
+0.53296356297537
+0.5127527770806641
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36419
+
+   micro avg       0.49      0.53      0.51     36419
+   macro avg       0.49      0.53      0.51     36419
+weighted avg       0.49      0.53      0.51     36419
+
+
+dataset:Test
+0.8575987125058964
+0.4940389039949801
+0.5239138270441124
+0.5085379802193366
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.52      0.51     36067
+
+   micro avg       0.49      0.52      0.51     36067
+   macro avg       0.49      0.52      0.51     36067
+weighted avg       0.49      0.52      0.51     36067
+
+
+dataset:Train
+0.9875741467923107
+0.9346423215047401
+0.9394379442923132
+0.9370339970893138
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8577036969680197
+0.4935266043866775
+0.5338147670172163
+0.5128807165187111
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36419
+
+   micro avg       0.49      0.53      0.51     36419
+   macro avg       0.49      0.53      0.51     36419
+weighted avg       0.49      0.53      0.51     36419
+
+
+dataset:Test
+0.8576462800220396
+0.49343339587242024
+0.5250228740954335
+0.5087382292492243
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9876214181740532
+0.9342023928900123
+0.9405720133875474
+0.9373763826194825
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8577313718435816
+0.49283022685313976
+0.5350778439825365
+0.5130858346498156
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8577889825704693
+0.49278671510119354
+0.5265755399672831
+0.5091211280442853
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.987654019126979
+0.9336423350657543
+0.9416092717063591
+0.9376088797691922
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8579250959725149
+0.4921162661830638
+0.5364782119223482
+0.5133406024618699
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8578682617640413
+0.4920766228058837
+0.5277677655474533
+0.5092976588628763
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9876523890793328
+0.9330832112390629
+0.9424390783614085
+0.937737809367195
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8579250959725149
+0.49156457119903596
+0.5376314561080755
+0.5135670351864238
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8579475409576134
+0.49147127029116205
+0.5288490864224915
+0.509475539885412
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9876686895557957
+0.932800700448725
+0.9429922827981081
+0.9378688051058446
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8580318419211108
+0.49110855081901517
+0.5384002855652269
+0.5136682166481105
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8579554688769706
+0.4910147312132041
+0.5295422408295672
+0.509551251267275
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9876784698416735
+0.9326160660578553
+0.9434763366802201
+0.9380147675553783
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8580595167966727
+0.4908386451693538
+0.5391691150223784
+0.5138699884852926
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.857951504917292
+0.49068753206772703
+0.530318573765492
+0.5097339000892774
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9876768397940272
+0.9324196920218072
+0.9437805991204049
+0.9380657488676433
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8581188201014481
+0.4906037086026604
+0.5397731953101403
+0.5140152703692082
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8580743876673287
+0.4906119521504137
+0.5310394543488508
+0.5100258301600404
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9876931402704902
+0.9322871853703173
+0.9440848615605897
+0.9381489345619712
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8582176589427407
+0.490573566084788
+0.5401576100387161
+0.5141729505090239
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8581338470625077
+0.490392242151319
+0.5313998946405302
+0.5100731869594145
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9876849900322586
+0.9320918548453158
+0.9442093325588471
+0.9381114653182367
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8582176589427407
+0.4902590931738914
+0.5403498174030039
+0.5140871745973694
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8581536668609007
+0.4902336759216649
+0.5316494302270773
+0.5101022864819569
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9877290013187086
+0.9321196571865277
+0.9446242358863718
+0.9383302880850655
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.858253240925606
+0.4900487610707533
+0.540871523106071
+0.5142074006395614
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8582210541754369
+0.4900148117881404
+0.5320098705187568
+0.5101495513459621
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9877192210328308
+0.9319443875949954
+0.9446657262191243
+0.9382619386122157
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8582690551402128
+0.48978931920503443
+0.5406793157417832
+0.5139777087520555
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8582250181351155
+0.48994641490176066
+0.5323703108104362
+0.5102781136638453
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9876931402704902
+0.9315882753919563
+0.9450391392138965
+0.9382655022793431
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.95      0.94     72306
+
+   micro avg       0.93      0.95      0.94     72306
+   macro avg       0.93      0.95      0.94     72306
+weighted avg       0.93      0.95      0.94     72306
+
+
+dataset:Dev
+0.8582730086938645
+0.48975939550606484
+0.5410362722754606
+0.5141224511095744
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8581814145786509
+0.4897365938241069
+0.5325089416918513
+0.5102279368790181
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9876996604610753
+0.9316217174333943
+0.944969988659309
+0.9382483796550588
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8582848693548196
+0.48968995329424625
+0.5412284796397485
+0.5141709381643647
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8582448379335086
+0.48958625436561554
+0.5324812155155683
+0.5101336095837651
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9877306313663549
+0.9313336874940406
+0.9455923436505961
+0.9384088553997761
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.95      0.94     72306
+
+   micro avg       0.93      0.95      0.94     72306
+   macro avg       0.93      0.95      0.94     72306
+weighted avg       0.93      0.95      0.94     72306
+
+
+dataset:Dev
+0.8583441726595951
+0.4892236040231878
+0.5422444328509843
+0.5143712964771764
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8582488018931872
+0.4890035849584297
+0.5332575484514931
+0.5101726836255603
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9877518219857566
+0.9311274142835754
+0.9461040577545432
+0.938555993826102
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.95      0.94     72306
+
+   micro avg       0.93      0.95      0.94     72306
+   macro avg       0.93      0.95      0.94     72306
+weighted avg       0.93      0.95      0.94     72306
+
+
+dataset:Dev
+0.8583599868742019
+0.48874001928163546
+0.5428759713336445
+0.5143875533354146
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8582884414899732
+0.4883927438792338
+0.5337288934483045
+0.5100553774409794
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9877583421763418
+0.9308487486398259
+0.9464774707493154
+0.9385980552164909
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.95      0.94     72306
+
+   micro avg       0.93      0.95      0.94     72306
+   macro avg       0.93      0.95      0.94     72306
+weighted avg       0.93      0.95      0.94     72306
+
+
+dataset:Dev
+0.8584271972862808
+0.48849325892636675
+0.5432054696724238
+0.5143986374923618
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.858320153167402
+0.48801621484671903
+0.5340616075637009
+0.5100017210108954
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9877632323192806
+0.9303718390960698
+0.9474594086244572
+0.9388378785802385
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.95      0.94     72306
+
+   micro avg       0.93      0.95      0.94     72306
+   macro avg       0.93      0.95      0.94     72306
+weighted avg       0.93      0.95      0.94     72306
+
+
+dataset:Dev
+0.8583204513376849
+0.4877214566929134
+0.5442488810785578
+0.5144369898389545
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8582765496109374
+0.48707853825964065
+0.535115202262456
+0.5099681600190247
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36067
+
+   micro avg       0.49      0.54      0.51     36067
+   macro avg       0.49      0.54      0.51     36067
+weighted avg       0.49      0.54      0.51     36067
+
+
+dataset:Train
+0.9877208510804771
+0.9296651431516417
+0.9480126130611568
+0.9387492382171887
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.95      0.94     72306
+
+   micro avg       0.93      0.95      0.94     72306
+   macro avg       0.93      0.95      0.94     72306
+weighted avg       0.93      0.95      0.94     72306
+
+
+dataset:Dev
+0.8583244048913365
+0.4869247375134923
+0.5450177105357094
+0.5143360584584689
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.55      0.51     36419
+
+   micro avg       0.49      0.55      0.51     36419
+   macro avg       0.49      0.55      0.51     36419
+weighted avg       0.49      0.55      0.51     36419
+
+
+dataset:Test
+0.8582765496109374
+0.48631584243095033
+0.5360301660797959
+0.5099642579232666
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36067
+
+   micro avg       0.49      0.54      0.51     36067
+   macro avg       0.49      0.54      0.51     36067
+weighted avg       0.49      0.54      0.51     36067
+
+
+dataset:Train
+0.9877958332722065
+0.9301637698267323
+0.9481094238375791
+0.9390508674241647
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.95      0.94     72306
+
+   micro avg       0.93      0.95      0.94     72306
+   macro avg       0.93      0.95      0.94     72306
+weighted avg       0.93      0.95      0.94     72306
+
+
+dataset:Dev
+0.858292776462123
+0.4869121507249221
+0.5449902523408111
+0.514316809618823
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8583558288045094
+0.48664703365299905
+0.5360578922560789
+0.5101588474325822
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36067
+
+   micro avg       0.49      0.54      0.51     36067
+   macro avg       0.49      0.54      0.51     36067
+weighted avg       0.49      0.54      0.51     36067
+
+
+dataset:Train
+0.9878382145110102
+0.9304765653631588
+0.9480679335048267
+0.9391898834763904
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.95      0.94     72306
+
+   micro avg       0.93      0.95      0.94     72306
+   macro avg       0.93      0.95      0.94     72306
+weighted avg       0.93      0.95      0.94     72306
+
+
+dataset:Dev
+0.8582730086938645
+0.4868957055214724
+0.5447980449765233
+0.5142220321631743
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8583439369254736
+0.48678513894482484
+0.5361965231374941
+0.510297513028564
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36067
+
+   micro avg       0.49      0.54      0.51     36067
+   macro avg       0.49      0.54      0.51     36067
+weighted avg       0.49      0.54      0.51     36067
+
+
+dataset:Train
+0.9878528849398268
+0.9301700984780662
+0.9483860260559289
+0.9391897444325745
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.95      0.94     72306
+
+   micro avg       0.93      0.95      0.94     72306
+   macro avg       0.93      0.95      0.94     72306
+weighted avg       0.93      0.95      0.94     72306
+
+
+dataset:Dev
+0.8582809158011678
+0.4862767181646794
+0.5453472088744886
+0.5141207838264605
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.55      0.51     36419
+
+   micro avg       0.49      0.55      0.51     36419
+   macro avg       0.49      0.55      0.51     36419
+weighted avg       0.49      0.55      0.51     36419
+
+
+dataset:Test
+0.858300333369009
+0.4863615813532928
+0.5368896775445698
+0.5103780920124933
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36067
+
+   micro avg       0.49      0.54      0.51     36067
+   macro avg       0.49      0.54      0.51     36067
+weighted avg       0.49      0.54      0.51     36067
+
+
+dataset:Train
+0.9878887459880452
+0.9306656531653817
+0.948247724946754
+0.9393744262834127
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.95      0.94     72306
+
+   micro avg       0.93      0.95      0.94     72306
+   macro avg       0.93      0.95      0.94     72306
+weighted avg       0.93      0.95      0.94     72306
+
+
+dataset:Dev
+0.8583204513376849
+0.4864116450608964
+0.5450177105357094
+0.5140496723901278
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.55      0.51     36419
+
+   micro avg       0.49      0.55      0.51     36419
+   macro avg       0.49      0.55      0.51     36419
+weighted avg       0.49      0.55      0.51     36419
+
+
+dataset:Test
+0.8582646577319015
+0.4868569991196076
+0.5366401419580226
+0.5105378386220358
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36067
+
+   micro avg       0.49      0.54      0.51     36067
+   macro avg       0.49      0.54      0.51     36067
+weighted avg       0.49      0.54      0.51     36067
+
+
+dataset:Train
+0.9879115666550933
+0.9318636456419678
+0.94705833540785
+0.9393995514126386
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.95      0.94     72306
+
+   micro avg       0.93      0.95      0.94     72306
+   macro avg       0.93      0.95      0.94     72306
+weighted avg       0.93      0.95      0.94     72306
+
+
+dataset:Dev
+0.8582453338183026
+0.4875267810968552
+0.5435898844009994
+0.5140342222106821
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8583915044416168
+0.4881385938290339
+0.535142928438739
+0.5105611914240745
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36067
+
+   micro avg       0.49      0.54      0.51     36067
+   macro avg       0.49      0.54      0.51     36067
+weighted avg       0.49      0.54      0.51     36067
+
+
+dataset:Train
+0.9879588380368358
+0.93269440506053
+0.9461870384200481
+0.9393922750552663
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.95      0.94     72306
+
+   micro avg       0.93      0.95      0.94     72306
+   macro avg       0.93      0.95      0.94     72306
+weighted avg       0.93      0.95      0.94     72306
+
+
+dataset:Dev
+0.8582216124963924
+0.48851114295597176
+0.5429034295285428
+0.5142730807745829
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8583320450464378
+0.4891677037563813
+0.5340061552111348
+0.5106044538706257
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9879637281797747
+0.9339643287011709
+0.944375293889857
+0.9391409591659904
+              precision    recall  f1-score   support
+
+    Chemical       0.93      0.94      0.94     72306
+
+   micro avg       0.93      0.94      0.94     72306
+   macro avg       0.93      0.94      0.94     72306
+weighted avg       0.93      0.94      0.94     72306
+
+
+dataset:Dev
+0.8581109129941448
+0.4903365420491008
+0.541283396029545
+0.514551956357182
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8583597927641881
+0.490723230258114
+0.5323980369867192
+0.510711863505193
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9879767685609451
+0.9352058948639489
+0.9425912095815009
+0.938884029121867
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.94      0.94     72306
+
+   micro avg       0.94      0.94      0.94     72306
+   macro avg       0.94      0.94      0.94     72306
+weighted avg       0.94      0.94      0.94     72306
+
+
+dataset:Dev
+0.8580437025820659
+0.49191367915081113
+0.5395260715560559
+0.5146209551746265
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8581893424980082
+0.492319172477678
+0.5304849308231901
+0.510689977312158
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9879311272268488
+0.936109314582158
+0.9408347854949797
+0.9384661015195513
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.94      0.94     72306
+
+   micro avg       0.94      0.94      0.94     72306
+   macro avg       0.94      0.94      0.94     72306
+weighted avg       0.94      0.94      0.94     72306
+
+
+dataset:Dev
+0.8579092817579081
+0.49356698642898506
+0.5382629945907356
+0.5149469370599978
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8580426759898998
+0.49397839993784154
+0.5288213602462084
+0.5108063954578322
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9879050464645082
+0.9367092096920914
+0.9399219981744253
+0.9383128537898661
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.94      0.94     72306
+
+   micro avg       0.94      0.94      0.94     72306
+   macro avg       0.94      0.94      0.94     72306
+weighted avg       0.94      0.94      0.94     72306
+
+
+dataset:Dev
+0.8578262571312224
+0.4943033977516736
+0.537274499574398
+0.5148939529498447
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.8580070003527924
+0.4949059153758187
+0.5279618487814346
+0.5108997491380814
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.53      0.51     36067
+
+   micro avg       0.49      0.53      0.51     36067
+   macro avg       0.49      0.53      0.51     36067
+weighted avg       0.49      0.53      0.51     36067
+
+
+dataset:Train
+0.9878691854162898
+0.9370738440303658
+0.9389400602992836
+0.9380060239299235
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.94      0.94     72306
+
+   micro avg       0.94      0.94      0.94     72306
+   macro avg       0.94      0.94      0.94     72306
+weighted avg       0.94      0.94      0.94     72306
+
+
+dataset:Dev
+0.8578025358093122
+0.49495921779218804
+0.5365331283121447
+0.51490836264938
+              precision    recall  f1-score   support
+
+    Chemical       0.49      0.54      0.51     36419
+
+   micro avg       0.49      0.54      0.51     36419
+   macro avg       0.49      0.54      0.51     36419
+weighted avg       0.49      0.54      0.51     36419
+
+
+dataset:Test
+0.857951504917292
+0.4956322198753553
+0.5269914326115286
+0.5108310040851429
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36067
+
+   micro avg       0.50      0.53      0.51     36067
+   macro avg       0.50      0.53      0.51     36067
+weighted avg       0.50      0.53      0.51     36067
+
+
+dataset:Train
+0.9878691854162898
+0.9375906911181437
+0.938303875197079
+0.9379471475872174
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.94      0.94     72306
+
+   micro avg       0.94      0.94      0.94     72306
+   macro avg       0.94      0.94      0.94     72306
+weighted avg       0.94      0.94      0.94     72306
+
+
+dataset:Dev
+0.8577313718435816
+0.4954447405151631
+0.5360663389988742
+0.5149556868537667
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.54      0.51     36419
+
+   micro avg       0.50      0.54      0.51     36419
+   macro avg       0.50      0.54      0.51     36419
+weighted avg       0.50      0.54      0.51     36419
+
+
+dataset:Test
+0.8578841176027557
+0.4961818086720017
+0.5260487426179056
+0.5106789583473521
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36067
+
+   micro avg       0.50      0.53      0.51     36067
+   macro avg       0.50      0.53      0.51     36067
+weighted avg       0.50      0.53      0.51     36067
+
+
+dataset:Train
+0.9878349544157176
+0.9378605320311527
+0.9376400298730396
+0.9377502679899029
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.94      0.94     72306
+
+   micro avg       0.94      0.94      0.94     72306
+   macro avg       0.94      0.94      0.94     72306
+weighted avg       0.94      0.94      0.94     72306
+
+
+dataset:Dev
+0.8577116040753231
+0.4960345704117946
+0.5358192152447898
+0.5151599149935981
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.54      0.52     36419
+
+   micro avg       0.50      0.54      0.52     36419
+   macro avg       0.50      0.54      0.52     36419
+weighted avg       0.50      0.54      0.52     36419
+
+
+dataset:Test
+0.8577731267317549
+0.49663427538699284
+0.5257160285025092
+0.5107615225062629
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36067
+
+   micro avg       0.50      0.53      0.51     36067
+   macro avg       0.50      0.53      0.51     36067
+weighted avg       0.50      0.53      0.51     36067
+
+
+dataset:Train
+0.9878072436057306
+0.9381224806416312
+0.9366304317760629
+0.9373758624746534
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.94      0.94     72306
+
+   micro avg       0.94      0.94      0.94     72306
+   macro avg       0.94      0.94      0.94     72306
+weighted avg       0.94      0.94      0.94     72306
+
+
+dataset:Dev
+0.8576167187876823
+0.49649779679580247
+0.5352425931519262
+0.5151427061310784
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.54      0.52     36419
+
+   micro avg       0.50      0.54      0.52     36419
+   macro avg       0.50      0.54      0.52     36419
+weighted avg       0.50      0.54      0.52     36419
+
+
+dataset:Test
+0.857602676465575
+0.4966923925027563
+0.5246069814511881
+0.5102682002669867
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9878088736533769
+0.9385411320859398
+0.9358282853428485
+0.9371827455108275
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.94      0.94     72306
+
+   micro avg       0.94      0.94      0.94     72306
+   macro avg       0.94      0.94      0.94     72306
+weighted avg       0.94      0.94      0.94     72306
+
+
+dataset:Dev
+0.8577036969680197
+0.4971042224773568
+0.5349954693978418
+0.5153542994683524
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.52     36419
+
+   micro avg       0.50      0.53      0.52     36419
+   macro avg       0.50      0.53      0.52     36419
+weighted avg       0.50      0.53      0.52     36419
+
+
+dataset:Test
+0.8575392531107173
+0.4970664842537294
+0.5238306485152633
+0.5100977374588261
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9877273712710622
+0.9389122036630444
+0.9344452742510995
+0.9366734133695622
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.93      0.94     72306
+
+   micro avg       0.94      0.93      0.94     72306
+   macro avg       0.94      0.93      0.94     72306
+weighted avg       0.94      0.93      0.94     72306
+
+
+dataset:Dev
+0.8576443936632442
+0.4980155173738253
+0.5340344325764024
+0.5153964384142463
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.52     36419
+
+   micro avg       0.50      0.53      0.52     36419
+   macro avg       0.50      0.53      0.52     36419
+weighted avg       0.50      0.53      0.52     36419
+
+
+dataset:Test
+0.8574322261993951
+0.4980577649763497
+0.522582970582527
+0.5100257069408741
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9876344585552236
+0.9393348559968804
+0.9328133211628358
+0.9360627298591353
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.93      0.94     72306
+
+   micro avg       0.94      0.93      0.94     72306
+   macro avg       0.94      0.93      0.94     72306
+weighted avg       0.94      0.93      0.94     72306
+
+
+dataset:Dev
+0.8574941586244796
+0.49901020644265626
+0.53296356297537
+0.5154283286419884
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.52     36419
+
+   micro avg       0.50      0.53      0.52     36419
+   macro avg       0.50      0.53      0.52     36419
+weighted avg       0.50      0.53      0.52     36419
+
+
+dataset:Test
+0.8573688028445374
+0.4986609391986848
+0.5214184711786397
+0.5097858498238005
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9875382857440923
+0.9401016930211767
+0.9307664647470473
+0.9354107884970881
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.93      0.94     72306
+
+   micro avg       0.94      0.93      0.94     72306
+   macro avg       0.94      0.93      0.94     72306
+weighted avg       0.94      0.93      0.94     72306
+
+
+dataset:Dev
+0.8573597378003218
+0.5005560296893993
+0.5314533622559653
+0.5155421783022135
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.52     36419
+
+   micro avg       0.50      0.53      0.52     36419
+   macro avg       0.50      0.53      0.52     36419
+weighted avg       0.50      0.53      0.52     36419
+
+
+dataset:Test
+0.8572379921751436
+0.4999733034331785
+0.5192558294285635
+0.5094321659299558
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.987419292265913
+0.9403660090452121
+0.9288302492185987
+0.9345625326143676
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.93      0.93     72306
+
+   micro avg       0.94      0.93      0.93     72306
+   macro avg       0.94      0.93      0.93     72306
+weighted avg       0.94      0.93      0.93     72306
+
+
+dataset:Dev
+0.8571501994567817
+0.5014943992515009
+0.5298333287569675
+0.5152745139927367
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.52     36419
+
+   micro avg       0.50      0.53      0.52     36419
+   macro avg       0.50      0.53      0.52     36419
+weighted avg       0.50      0.53      0.52     36419
+
+
+dataset:Test
+0.8571468211025357
+0.5013566880692045
+0.5174259017938836
+0.509264565425024
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9872497673106985
+0.9403632382663373
+0.9266036013608829
+0.9334327152151803
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.93      0.93     72306
+
+   micro avg       0.94      0.93      0.93     72306
+   macro avg       0.94      0.93      0.93     72306
+weighted avg       0.94      0.93      0.93     72306
+
+
+dataset:Dev
+0.8568418222719492
+0.5021686872909699
+0.5277190477498009
+0.5146269296166873
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36419
+
+   micro avg       0.50      0.53      0.51     36419
+   macro avg       0.50      0.53      0.51     36419
+weighted avg       0.50      0.53      0.51     36419
+
+
+dataset:Test
+0.8568534880863192
+0.5021869431394784
+0.5157068788643359
+0.5088571233157787
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36067
+
+   micro avg       0.50      0.52      0.51     36067
+   macro avg       0.50      0.52      0.51     36067
+weighted avg       0.50      0.52      0.51     36067
+
+
+dataset:Train
+0.9870916526890081
+0.9402640867351961
+0.9247503664979393
+0.9324427028496921
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.92      0.93     72306
+
+   micro avg       0.94      0.92      0.93     72306
+   macro avg       0.94      0.92      0.93     72306
+weighted avg       0.94      0.92      0.93     72306
+
+
+dataset:Dev
+0.8566006554991955
+0.5026486940102801
+0.526291221615091
+0.5141983340263713
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36419
+
+   micro avg       0.50      0.53      0.51     36419
+   macro avg       0.50      0.53      0.51     36419
+weighted avg       0.50      0.53      0.51     36419
+
+
+dataset:Test
+0.8566790738604607
+0.5030118847343572
+0.513987855934788
+0.5084406412418918
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.51      0.51     36067
+
+   micro avg       0.50      0.51      0.51     36067
+   macro avg       0.50      0.51      0.51     36067
+weighted avg       0.50      0.51      0.51     36067
+
+
+dataset:Train
+0.9869971099255231
+0.9405722980683884
+0.9232843747406854
+0.9318481606331526
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.92      0.93     72306
+
+   micro avg       0.94      0.92      0.93     72306
+   macro avg       0.94      0.92      0.93     72306
+weighted avg       0.94      0.92      0.93     72306
+
+
+dataset:Dev
+0.8565176308725098
+0.503541057841666
+0.5251654356242621
+0.5141259643557968
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.53      0.51     36419
+
+   micro avg       0.50      0.53      0.51     36419
+   macro avg       0.50      0.53      0.51     36419
+weighted avg       0.50      0.53      0.51     36419
+
+
+dataset:Test
+0.8564808758765305
+0.5036373048524644
+0.5125183685917875
+0.5080390270715954
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.51      0.51     36067
+
+   micro avg       0.50      0.51      0.51     36067
+   macro avg       0.50      0.51      0.51     36067
+weighted avg       0.50      0.51      0.51     36067
+
+
+dataset:Train
+0.9868520356850031
+0.9408981113951944
+0.921209858103062
+0.9309499018162252
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.92      0.93     72306
+
+   micro avg       0.94      0.92      0.93     72306
+   macro avg       0.94      0.92      0.93     72306
+weighted avg       0.94      0.92      0.93     72306
+
+
+dataset:Dev
+0.8562883247607112
+0.5041798941798942
+0.5232982783711799
+0.5135612174780042
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36419
+
+   micro avg       0.50      0.52      0.51     36419
+   macro avg       0.50      0.52      0.51     36419
+weighted avg       0.50      0.52      0.51     36419
+
+
+dataset:Test
+0.8563857408442441
+0.5053324194653872
+0.511048881248787
+0.5081745747291224
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.51      0.51     36067
+
+   micro avg       0.51      0.51      0.51     36067
+   macro avg       0.51      0.51      0.51     36067
+weighted avg       0.51      0.51      0.51     36067
+
+
+dataset:Train
+0.9867966140650292
+0.9410084556432228
+0.9203938815589301
+0.9305870179265598
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.92      0.93     72306
+
+   micro avg       0.94      0.92      0.93     72306
+   macro avg       0.94      0.92      0.93     72306
+weighted avg       0.94      0.92      0.93     72306
+
+
+dataset:Dev
+0.856185532365767
+0.5044541067925129
+0.5224470743293336
+0.5132929576324912
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.52      0.51     36419
+
+   micro avg       0.50      0.52      0.51     36419
+   macro avg       0.50      0.52      0.51     36419
+weighted avg       0.50      0.52      0.51     36419
+
+
+dataset:Test
+0.8561954707796712
+0.5054144678979772
+0.5098566556686167
+0.5076258436736554
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.51      0.51     36067
+
+   micro avg       0.51      0.51      0.51     36067
+   macro avg       0.51      0.51      0.51     36067
+weighted avg       0.51      0.51      0.51     36067
+
+
+dataset:Train
+0.9867020713015442
+0.9409657828050455
+0.9192459823527784
+0.9299790825713746
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.92      0.93     72306
+
+   micro avg       0.94      0.92      0.93     72306
+   macro avg       0.94      0.92      0.93     72306
+weighted avg       0.94      0.92      0.93     72306
+
+
+dataset:Dev
+0.8560155295587438
+0.5050480896965832
+0.5219528268211647
+0.5133613297865156
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.52      0.51     36419
+
+   micro avg       0.51      0.52      0.51     36419
+   macro avg       0.51      0.52      0.51     36419
+weighted avg       0.51      0.52      0.51     36419
+
+
+dataset:Test
+0.8561122276264206
+0.5056749311294766
+0.5089416918512768
+0.5073030524963036
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.51      0.51     36067
+
+   micro avg       0.51      0.51      0.51     36067
+   macro avg       0.51      0.51      0.51     36067
+weighted avg       0.51      0.51      0.51     36067
+
+
+dataset:Train
+0.9866450196339239
+0.941210652380345
+0.918443835919564
+0.9296878827968054
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.92      0.93     72306
+
+   micro avg       0.94      0.92      0.93     72306
+   macro avg       0.94      0.92      0.93     72306
+weighted avg       0.94      0.92      0.93     72306
+
+
+dataset:Dev
+0.8559166907174514
+0.5055410517342427
+0.5210741645844202
+0.5131900969482266
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.52      0.51     36419
+
+   micro avg       0.51      0.52      0.51     36419
+   macro avg       0.51      0.52      0.51     36419
+weighted avg       0.51      0.52      0.51     36419
+
+
+dataset:Test
+0.8560805159489918
+0.5061309030654515
+0.508137632739069
+0.5071322827455483
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.51      0.51     36067
+
+   micro avg       0.51      0.51      0.51     36067
+   macro avg       0.51      0.51      0.51     36067
+weighted avg       0.51      0.51      0.51     36067
+
+
+dataset:Train
+0.9864934252028187
+0.941071276505152
+0.9170193344950627
+0.9288896360426998
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.92      0.93     72306
+
+   micro avg       0.94      0.92      0.93     72306
+   macro avg       0.94      0.92      0.93     72306
+weighted avg       0.94      0.92      0.93     72306
+
+
+dataset:Dev
+0.8557941305542487
+0.5058638100072129
+0.5199483785935912
+0.5128094025889618
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.52      0.51     36419
+
+   micro avg       0.51      0.52      0.51     36419
+   macro avg       0.51      0.52      0.51     36419
+weighted avg       0.51      0.52      0.51     36419
+
+
+dataset:Test
+0.8560012367554197
+0.5067180098069092
+0.5071394903928799
+0.5069286624909928
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.51      0.51     36067
+
+   micro avg       0.51      0.51      0.51     36067
+   macro avg       0.51      0.51      0.51     36067
+weighted avg       0.51      0.51      0.51     36067
+
+
+dataset:Train
+0.9862994495329098
+0.9411706137543561
+0.9151246092993666
+0.9279648834942607
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.92      0.93     72306
+
+   micro avg       0.94      0.92      0.93     72306
+   macro avg       0.94      0.92      0.93     72306
+weighted avg       0.94      0.92      0.93     72306
+
+
+dataset:Dev
+0.8557308736958215
+0.5068151328145962
+0.5186578434333727
+0.5126681051445943
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.52      0.51     36419
+
+   micro avg       0.51      0.52      0.51     36419
+   macro avg       0.51      0.52      0.51     36419
+weighted avg       0.51      0.52      0.51     36419
+
+
+dataset:Test
+0.8559021377634547
+0.5076679005817029
+0.5057254554024454
+0.5066948163786877
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.51      0.51     36067
+
+   micro avg       0.51      0.51      0.51     36067
+   macro avg       0.51      0.51      0.51     36067
+weighted avg       0.51      0.51      0.51     36067
+
+
+dataset:Train
+0.9861380748159269
+0.9412209062014509
+0.913299034658258
+0.9270497729298715
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.91      0.93     72306
+
+   micro avg       0.94      0.91      0.93     72306
+   macro avg       0.94      0.91      0.93     72306
+weighted avg       0.94      0.91      0.93     72306
+
+
+dataset:Dev
+0.8555845922107086
+0.5077503706699016
+0.5171751009088662
+0.5124194031068912
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.52      0.51     36419
+
+   micro avg       0.51      0.52      0.51     36419
+   macro avg       0.51      0.52      0.51     36419
+weighted avg       0.51      0.52      0.51     36419
+
+
+dataset:Test
+0.8557871829327752
+0.5087086583354301
+0.5045055036459922
+0.5065983629378027
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.50      0.51     36067
+
+   micro avg       0.51      0.50      0.51     36067
+   macro avg       0.51      0.50      0.51     36067
+weighted avg       0.51      0.50      0.51     36067
+
+
+dataset:Train
+0.9860745029577215
+0.9409399418239891
+0.912649019445136
+0.9265785815582922
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.91      0.93     72306
+
+   micro avg       0.94      0.91      0.93     72306
+   macro avg       0.94      0.91      0.93     72306
+weighted avg       0.94      0.91      0.93     72306
+
+
+dataset:Dev
+0.8554501713865508
+0.5073890297179224
+0.5166259370109009
+0.5119658235942367
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.52      0.51     36419
+
+   micro avg       0.51      0.52      0.51     36419
+   macro avg       0.51      0.52      0.51     36419
+weighted avg       0.51      0.52      0.51     36419
+
+
+dataset:Test
+0.855739615416632
+0.508570789407455
+0.504255968059445
+0.5064041877819235
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.50      0.51     36067
+
+   micro avg       0.51      0.50      0.51     36067
+   macro avg       0.51      0.50      0.51     36067
+weighted avg       0.51      0.50      0.51     36067
+
+
+dataset:Train
+0.9859620296701272
+0.9410311339617252
+0.9112798384643045
+0.9259165577617582
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.91      0.93     72306
+
+   micro avg       0.94      0.91      0.93     72306
+   macro avg       0.94      0.91      0.93     72306
+weighted avg       0.94      0.91      0.93     72306
+
+
+dataset:Dev
+0.8553750538671685
+0.5078763600931089
+0.5152255690710893
+0.5115245689361413
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.52      0.51     36419
+
+   micro avg       0.51      0.52      0.51     36419
+   macro avg       0.51      0.52      0.51     36419
+weighted avg       0.51      0.52      0.51     36419
+
+
+dataset:Test
+0.8556008768278809
+0.5095754240143772
+0.5031469210081237
+0.506340769262964
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.50      0.51     36067
+
+   micro avg       0.51      0.50      0.51     36067
+   macro avg       0.51      0.50      0.51     36067
+weighted avg       0.51      0.50      0.51     36067
+
+
+dataset:Train
+0.9858039150484369
+0.9411133525043993
+0.9097585262633806
+0.9251703550558004
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.91      0.93     72306
+
+   micro avg       0.94      0.91      0.93     72306
+   macro avg       0.94      0.91      0.93     72306
+weighted avg       0.94      0.91      0.93     72306
+
+
+dataset:Dev
+0.8551734226309318
+0.5087099491806397
+0.5139899503006672
+0.5113363199300698
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.51      0.51     36419
+
+   micro avg       0.51      0.51      0.51     36419
+   macro avg       0.51      0.51      0.51     36419
+weighted avg       0.51      0.51      0.51     36419
+
+
+dataset:Test
+0.8555176336746303
+0.5098624887285843
+0.5016774336651233
+0.5057368457829642
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.50      0.51     36067
+
+   micro avg       0.51      0.50      0.51     36067
+   macro avg       0.51      0.50      0.51     36067
+weighted avg       0.51      0.50      0.51     36067
+
+
+dataset:Train
+0.9856360201408687
+0.9408924170344471
+0.9081265731751169
+0.9242191788534351
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.91      0.92     72306
+
+   micro avg       0.94      0.91      0.92     72306
+   macro avg       0.94      0.91      0.92     72306
+weighted avg       0.94      0.91      0.92     72306
+
+
+dataset:Dev
+0.8550627231286843
+0.5093001690939836
+0.5127543315302452
+0.5110214134227269
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.51      0.51     36419
+
+   micro avg       0.51      0.51      0.51     36419
+   macro avg       0.51      0.51      0.51     36419
+weighted avg       0.51      0.51      0.51     36419
+
+
+dataset:Test
+0.8553154717310215
+0.5105895659550403
+0.5006515651426512
+0.5055717325568373
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.50      0.51     36067
+
+   micro avg       0.51      0.50      0.51     36067
+   macro avg       0.51      0.50      0.51     36067
+weighted avg       0.51      0.50      0.51     36067
+
+
+dataset:Train
+0.9856572107602706
+0.9407155952790192
+0.9083201947279618
+0.9242341087234912
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.91      0.92     72306
+
+   micro avg       0.94      0.91      0.92     72306
+   macro avg       0.94      0.91      0.92     72306
+weighted avg       0.94      0.91      0.92     72306
+
+
+dataset:Dev
+0.8550627231286843
+0.5089195740392733
+0.5130838298690245
+0.5109932181141983
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.51      0.51     36419
+
+   micro avg       0.51      0.51      0.51     36419
+   macro avg       0.51      0.51      0.51     36419
+weighted avg       0.51      0.51      0.51     36419
+
+
+dataset:Test
+0.8553947509245936
+0.5106370956349767
+0.5011229101394626
+0.505835269094064
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.50      0.51     36067
+
+   micro avg       0.51      0.50      0.51     36067
+   macro avg       0.51      0.50      0.51     36067
+weighted avg       0.51      0.50      0.51     36067
+
+
+dataset:Train
+0.9857664239525721
+0.9406756621403122
+0.909205321826681
+0.9246728038651691
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.91      0.92     72306
+
+   micro avg       0.94      0.91      0.92     72306
+   macro avg       0.94      0.91      0.92     72306
+weighted avg       0.94      0.91      0.92     72306
+
+
+dataset:Dev
+0.8551931903991903
+0.5082234163816968
+0.5141821576649551
+0.511185422780318
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.51      0.51     36419
+
+   micro avg       0.51      0.51      0.51     36419
+   macro avg       0.51      0.51      0.51     36419
+weighted avg       0.51      0.51      0.51     36419
+
+
+dataset:Test
+0.8554185346826652
+0.5099563441768765
+0.5020101477805196
+0.5059520482870397
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.50      0.51     36067
+
+   micro avg       0.51      0.50      0.51     36067
+   macro avg       0.51      0.50      0.51     36067
+weighted avg       0.51      0.50      0.51     36067
+
+
+dataset:Train
+0.9858528164778256
+0.9407449774790877
+0.9098968273725555
+0.9250638001701339
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.91      0.93     72306
+
+   micro avg       0.94      0.91      0.93     72306
+   macro avg       0.94      0.91      0.93     72306
+weighted avg       0.94      0.91      0.93     72306
+
+
+dataset:Dev
+0.855157608416325
+0.5075515617387538
+0.51489607073231
+0.5111974374701833
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.51      0.51     36419
+
+   micro avg       0.51      0.51      0.51     36419
+   macro avg       0.51      0.51      0.51     36419
+weighted avg       0.51      0.51      0.51     36419
+
+
+dataset:Test
+0.8554462824004154
+0.5091848772540869
+0.5026201236587462
+0.505881203867781
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.50      0.51     36067
+
+   micro avg       0.51      0.50      0.51     36067
+   macro avg       0.51      0.50      0.51     36067
+weighted avg       0.51      0.50      0.51     36067
+
+
+dataset:Train
+0.9859000878595682
+0.940566334257222
+0.9104915221420076
+0.9252846099789177
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.91      0.93     72306
+
+   micro avg       0.94      0.91      0.93     72306
+   macro avg       0.94      0.91      0.93     72306
+weighted avg       0.94      0.91      0.93     72306
+
+
+dataset:Dev
+0.8552406330430107
+0.5072917791941234
+0.5157747329690546
+0.5114980870559723
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.52      0.51     36419
+
+   micro avg       0.51      0.52      0.51     36419
+   macro avg       0.51      0.52      0.51     36419
+weighted avg       0.51      0.52      0.51     36419
+
+
+dataset:Test
+0.8555057417955945
+0.5089991589571068
+0.503396456594671
+0.5061823048078399
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.50      0.51     36067
+
+   micro avg       0.51      0.50      0.51     36067
+   macro avg       0.51      0.50      0.51     36067
+weighted avg       0.51      0.50      0.51     36067
+
+
+dataset:Train
+0.9859946306230531
+0.9403798678596401
+0.9113904793516444
+0.9256582597641573
+              precision    recall  f1-score   support
+
+    Chemical       0.94      0.91      0.93     72306
+
+   micro avg       0.94      0.91      0.93     72306
+   macro avg       0.94      0.91      0.93     72306
+weighted avg       0.94      0.91      0.93     72306
+
+
+dataset:Dev
+0.8552841221331794
+0.506939765530252
+0.5164886460364095
+0.5116696588868941
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.52      0.51     36419
+
+   micro avg       0.51      0.52      0.51     36419
+   macro avg       0.51      0.52      0.51     36419
+weighted avg       0.51      0.52      0.51     36419
+

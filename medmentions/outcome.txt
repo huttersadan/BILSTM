@@ -1,0 +1,3383 @@
+
+dataset:Dev
+准确率：
+0.8988951878357768
+precision_score:
+0.8085563155013553
+recall_score:
+0.644740129113691
+f1_score0.7174155075981349
+              precision    recall  f1-score   support
+
+    Chemical       0.81      0.64      0.72    380285
+
+   micro avg       0.81      0.64      0.72    380285
+   macro avg       0.81      0.64      0.72    380285
+weighted avg       0.81      0.64      0.72    380285
+
+
+dataset:Test
+准确率：
+0.899199643931542
+precision_score:
+0.8077217075002965
+recall_score:
+0.6439047709101606
+f1_score0.7165698184241602
+              precision    recall  f1-score   support
+
+    Chemical       0.81      0.64      0.72    190362
+
+   micro avg       0.81      0.64      0.72    190362
+   macro avg       0.81      0.64      0.72    190362
+weighted avg       0.81      0.64      0.72    190362
+
+
+dataset:Dev
+准确率：
+0.8860739655252562
+precision_score:
+0.7388095594786599
+recall_score:
+0.7391903440840423
+f1_score0.7389999027296174
+              precision    recall  f1-score   support
+
+    Chemical       0.74      0.74      0.74    380285
+
+   micro avg       0.74      0.74      0.74    380285
+   macro avg       0.74      0.74      0.74    380285
+weighted avg       0.74      0.74      0.74    380285
+
+
+dataset:Test
+准确率：
+0.8867904453781588
+precision_score:
+0.7400701119053384
+recall_score:
+0.738592786375432
+f1_score0.7393307111456996
+              precision    recall  f1-score   support
+
+    Chemical       0.74      0.74      0.74    190362
+
+   micro avg       0.74      0.74      0.74    190362
+   macro avg       0.74      0.74      0.74    190362
+weighted avg       0.74      0.74      0.74    190362
+
+
+dataset:Dev
+准确率：
+0.919064705999544
+precision_score:
+0.8166612301626697
+recall_score:
+0.7571111140328963
+f1_score0.7857595109437258
+              precision    recall  f1-score   support
+
+    Chemical       0.82      0.76      0.79    380285
+
+   micro avg       0.82      0.76      0.79    380285
+   macro avg       0.82      0.76      0.79    380285
+weighted avg       0.82      0.76      0.79    380285
+
+
+dataset:Test
+准确率：
+0.919340209403009
+precision_score:
+0.8176957698834774
+recall_score:
+0.7568159611687206
+f1_score0.7860788812470841
+              precision    recall  f1-score   support
+
+    Chemical       0.82      0.76      0.79    190362
+
+   micro avg       0.82      0.76      0.79    190362
+   macro avg       0.82      0.76      0.79    190362
+weighted avg       0.82      0.76      0.79    190362
+
+
+dataset:Dev
+准确率：
+0.9235702854005857
+precision_score:
+0.8253107769786255
+recall_score:
+0.7498297329634354
+f1_score0.7857617217101366
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.75      0.79    380285
+
+   micro avg       0.83      0.75      0.79    380285
+   macro avg       0.83      0.75      0.79    380285
+weighted avg       0.83      0.75      0.79    380285
+
+
+dataset:Test
+准确率：
+0.9230835386608244
+precision_score:
+0.8229605609216132
+recall_score:
+0.7479066200187012
+f1_score0.78364060182242
+              precision    recall  f1-score   support
+
+    Chemical       0.82      0.75      0.78    190362
+
+   micro avg       0.82      0.75      0.78    190362
+   macro avg       0.82      0.75      0.78    190362
+weighted avg       0.82      0.75      0.78    190362
+
+
+dataset:Dev
+准确率：
+0.9221951915989118
+precision_score:
+0.8279178610134097
+recall_score:
+0.7693887479127497
+f1_score0.7975809815098013
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.77      0.80    380285
+
+   micro avg       0.83      0.77      0.80    380285
+   macro avg       0.83      0.77      0.80    380285
+weighted avg       0.83      0.77      0.80    380285
+
+
+dataset:Test
+准确率：
+0.9226544123318848
+precision_score:
+0.8272118975886621
+recall_score:
+0.7702167449385907
+f1_score0.7976975473874345
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.77      0.80    190362
+
+   micro avg       0.83      0.77      0.80    190362
+   macro avg       0.83      0.77      0.80    190362
+weighted avg       0.83      0.77      0.80    190362
+
+
+dataset:Dev
+准确率：
+0.9232776463140092
+precision_score:
+0.8124740868405863
+recall_score:
+0.7884086934798901
+f1_score0.8002605077231464
+              precision    recall  f1-score   support
+
+    Chemical       0.81      0.79      0.80    380285
+
+   micro avg       0.81      0.79      0.80    380285
+   macro avg       0.81      0.79      0.80    380285
+weighted avg       0.81      0.79      0.80    380285
+
+
+dataset:Test
+准确率：
+0.9241616742310526
+precision_score:
+0.8124323563790641
+recall_score:
+0.7886605520009246
+f1_score0.8003699813943075
+              precision    recall  f1-score   support
+
+    Chemical       0.81      0.79      0.80    190362
+
+   micro avg       0.81      0.79      0.80    190362
+   macro avg       0.81      0.79      0.80    190362
+weighted avg       0.81      0.79      0.80    190362
+
+
+dataset:Dev
+准确率：
+0.923599062315302
+precision_score:
+0.8268924412217095
+recall_score:
+0.7916562578066451
+f1_score0.8088907995405481
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.79      0.81    380285
+
+   micro avg       0.83      0.79      0.81    380285
+   macro avg       0.83      0.79      0.81    380285
+weighted avg       0.83      0.79      0.81    380285
+
+
+dataset:Test
+准确率：
+0.9236926497930175
+precision_score:
+0.8248957288566621
+recall_score:
+0.7906409892730693
+f1_score0.8074052019880961
+              precision    recall  f1-score   support
+
+    Chemical       0.82      0.79      0.81    190362
+
+   micro avg       0.82      0.79      0.81    190362
+   macro avg       0.82      0.79      0.81    190362
+weighted avg       0.82      0.79      0.81    190362
+
+
+dataset:Dev
+准确率：
+0.9304147638854148
+precision_score:
+0.842945380571247
+recall_score:
+0.781261422354287
+f1_score0.8109320879654776
+              precision    recall  f1-score   support
+
+    Chemical       0.84      0.78      0.81    380285
+
+   micro avg       0.84      0.78      0.81    380285
+   macro avg       0.84      0.78      0.81    380285
+weighted avg       0.84      0.78      0.81    380285
+
+
+dataset:Test
+准确率：
+0.9301641230883264
+precision_score:
+0.8408605682378059
+recall_score:
+0.7799876025677394
+f1_score0.8092810054967664
+              precision    recall  f1-score   support
+
+    Chemical       0.84      0.78      0.81    190362
+
+   micro avg       0.84      0.78      0.81    190362
+   macro avg       0.84      0.78      0.81    190362
+weighted avg       0.84      0.78      0.81    190362
+
+
+dataset:Dev
+准确率：
+0.9276265022102884
+precision_score:
+0.8148695408210979
+recall_score:
+0.801948538596053
+f1_score0.808357409812601
+              precision    recall  f1-score   support
+
+    Chemical       0.81      0.80      0.81    380285
+
+   micro avg       0.81      0.80      0.81    380285
+   macro avg       0.81      0.80      0.81    380285
+weighted avg       0.81      0.80      0.81    380285
+
+
+dataset:Test
+准确率：
+0.9278677652537121
+precision_score:
+0.8150245133419945
+recall_score:
+0.8008058330969416
+f1_score0.8078526137842043
+              precision    recall  f1-score   support
+
+    Chemical       0.82      0.80      0.81    190362
+
+   micro avg       0.82      0.80      0.81    190362
+   macro avg       0.82      0.80      0.81    190362
+weighted avg       0.82      0.80      0.81    190362
+
+
+dataset:Dev
+准确率：
+0.9269230173259163
+precision_score:
+0.8287231580962067
+recall_score:
+0.762854175158105
+f1_score0.7944256405200837
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.76      0.79    380285
+
+   micro avg       0.83      0.76      0.79    380285
+   macro avg       0.83      0.76      0.79    380285
+weighted avg       0.83      0.76      0.79    380285
+
+
+dataset:Test
+准确率：
+0.9268853851453134
+precision_score:
+0.8272656236632122
+recall_score:
+0.7619272754016032
+f1_score0.7932532835278063
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.76      0.79    190362
+
+   micro avg       0.83      0.76      0.79    190362
+   macro avg       0.83      0.76      0.79    190362
+weighted avg       0.83      0.76      0.79    190362
+
+
+dataset:Dev
+准确率：
+0.9209290073513949
+precision_score:
+0.8313376842164871
+recall_score:
+0.7720946132505884
+f1_score0.8006217023191132
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.77      0.80    380285
+
+   micro avg       0.83      0.77      0.80    380285
+   macro avg       0.83      0.77      0.80    380285
+weighted avg       0.83      0.77      0.80    380285
+
+
+dataset:Test
+准确率：
+0.921894575009775
+precision_score:
+0.8312741138001651
+recall_score:
+0.7719030058520083
+f1_score0.800489202675906
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.77      0.80    190362
+
+   micro avg       0.83      0.77      0.80    190362
+   macro avg       0.83      0.77      0.80    190362
+weighted avg       0.83      0.77      0.80    190362
+
+
+dataset:Dev
+准确率：
+0.9298728724452188
+precision_score:
+0.8324670651229866
+recall_score:
+0.8090616248340061
+f1_score0.8205974838573742
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.81      0.82    380285
+
+   micro avg       0.83      0.81      0.82    380285
+   macro avg       0.83      0.81      0.82    380285
+weighted avg       0.83      0.81      0.82    380285
+
+
+dataset:Test
+准确率：
+0.9302607651748025
+precision_score:
+0.8322563186664502
+recall_score:
+0.8078082810644982
+f1_score0.8198500794387042
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.81      0.82    190362
+
+   micro avg       0.83      0.81      0.82    190362
+   macro avg       0.83      0.81      0.82    190362
+weighted avg       0.83      0.81      0.82    190362
+
+
+dataset:Dev
+准确率：
+0.930909726818535
+precision_score:
+0.8343174106398653
+recall_score:
+0.8159696017460589
+f1_score0.8250415111797683
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.82      0.83    380285
+
+   micro avg       0.83      0.82      0.83    380285
+   macro avg       0.83      0.82      0.83    380285
+weighted avg       0.83      0.82      0.83    380285
+
+
+dataset:Test
+准确率：
+0.9312635376500723
+precision_score:
+0.8338307494582198
+recall_score:
+0.8145533247181685
+f1_score0.8240793148438975
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.81      0.82    190362
+
+   micro avg       0.83      0.81      0.82    190362
+   macro avg       0.83      0.81      0.82    190362
+weighted avg       0.83      0.81      0.82    190362
+
+
+dataset:Dev
+准确率：
+0.9121693145117554
+precision_score:
+0.809665460153508
+recall_score:
+0.7758680989258057
+f1_score0.7924065659007166
+              precision    recall  f1-score   support
+
+    Chemical       0.81      0.78      0.79    380285
+
+   micro avg       0.81      0.78      0.79    380285
+   macro avg       0.81      0.78      0.79    380285
+weighted avg       0.81      0.78      0.79    380285
+
+
+dataset:Test
+准确率：
+0.9119865445843637
+precision_score:
+0.8081590314100207
+recall_score:
+0.7735209758250071
+f1_score0.7904607249741656
+              precision    recall  f1-score   support
+
+    Chemical       0.81      0.77      0.79    190362
+
+   micro avg       0.81      0.77      0.79    190362
+   macro avg       0.81      0.77      0.79    190362
+weighted avg       0.81      0.77      0.79    190362
+
+
+dataset:Dev
+准确率：
+0.9343279815650657
+precision_score:
+0.838905107283997
+recall_score:
+0.8032607123604665
+f1_score0.820696066156913
+              precision    recall  f1-score   support
+
+    Chemical       0.84      0.80      0.82    380285
+
+   micro avg       0.84      0.80      0.82    380285
+   macro avg       0.84      0.80      0.82    380285
+weighted avg       0.84      0.80      0.82    380285
+
+
+dataset:Test
+准确率：
+0.9344208080165054
+precision_score:
+0.8381371800714948
+recall_score:
+0.8018091846061715
+f1_score0.8195708145288383
+              precision    recall  f1-score   support
+
+    Chemical       0.84      0.80      0.82    190362
+
+   micro avg       0.84      0.80      0.82    190362
+   macro avg       0.84      0.80      0.82    190362
+weighted avg       0.84      0.80      0.82    190362
+
+
+dataset:Dev
+准确率：
+0.9268915840806108
+precision_score:
+0.8332972727371074
+recall_score:
+0.8102081333736539
+f1_score0.8215905166839326
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.81      0.82    380285
+
+   micro avg       0.83      0.81      0.82    380285
+   macro avg       0.83      0.81      0.82    380285
+weighted avg       0.83      0.81      0.82    380285
+
+
+dataset:Test
+准确率：
+0.9277631435454169
+precision_score:
+0.8332693565740175
+recall_score:
+0.8096363770080163
+f1_score0.8212828881635916
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.81      0.82    190362
+
+   micro avg       0.83      0.81      0.82    190362
+   macro avg       0.83      0.81      0.82    190362
+weighted avg       0.83      0.81      0.82    190362
+
+
+dataset:Dev
+准确率：
+0.9294514013250662
+precision_score:
+0.8355858570364202
+recall_score:
+0.8021589071354379
+f1_score0.8185312541506955
+              precision    recall  f1-score   support
+
+    Chemical       0.84      0.80      0.82    380285
+
+   micro avg       0.84      0.80      0.82    380285
+   macro avg       0.84      0.80      0.82    380285
+weighted avg       0.84      0.80      0.82    380285
+
+
+dataset:Test
+准确率：
+0.9303130760289501
+precision_score:
+0.8366851385942699
+recall_score:
+0.8018617160988012
+f1_score0.8189033827698959
+              precision    recall  f1-score   support
+
+    Chemical       0.84      0.80      0.82    190362
+
+   micro avg       0.84      0.80      0.82    190362
+   macro avg       0.84      0.80      0.82    190362
+weighted avg       0.84      0.80      0.82    190362
+
+
+dataset:Dev
+准确率：
+0.9142124754566121
+precision_score:
+0.7829468618052616
+recall_score:
+0.8367382357968366
+f1_score0.8089493159373939
+              precision    recall  f1-score   support
+
+    Chemical       0.78      0.84      0.81    380285
+
+   micro avg       0.78      0.84      0.81    380285
+   macro avg       0.78      0.84      0.81    380285
+weighted avg       0.78      0.84      0.81    380285
+
+
+dataset:Test
+准确率：
+0.9151092365895805
+precision_score:
+0.784113761829653
+recall_score:
+0.8356762379046239
+f1_score0.8090743104754834
+              precision    recall  f1-score   support
+
+    Chemical       0.78      0.84      0.81    190362
+
+   micro avg       0.78      0.84      0.81    190362
+   macro avg       0.78      0.84      0.81    190362
+weighted avg       0.78      0.84      0.81    190362
+
+
+dataset:Dev
+准确率：
+0.9320107758477568
+precision_score:
+0.827297358504981
+recall_score:
+0.7973020234823882
+f1_score0.8120227857661273
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.80      0.81    380285
+
+   micro avg       0.83      0.80      0.81    380285
+   macro avg       0.83      0.80      0.81    380285
+weighted avg       0.83      0.80      0.81    380285
+
+
+dataset:Test
+准确率：
+0.9321927202796769
+precision_score:
+0.8269946416683945
+recall_score:
+0.7961673022977275
+f1_score0.811288233215926
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.80      0.81    190362
+
+   micro avg       0.83      0.80      0.81    190362
+   macro avg       0.83      0.80      0.81    190362
+weighted avg       0.83      0.80      0.81    190362
+
+
+dataset:Dev
+准确率：
+0.9370259280001594
+precision_score:
+0.8566818917700991
+recall_score:
+0.809845247643215
+f1_score0.832605413238278
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.81      0.83    380285
+
+   micro avg       0.86      0.81      0.83    380285
+   macro avg       0.86      0.81      0.83    380285
+weighted avg       0.86      0.81      0.83    380285
+
+
+dataset:Test
+准确率：
+0.9369680806260988
+precision_score:
+0.8552424101094899
+recall_score:
+0.8091740998728738
+f1_score0.831570707479688
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.81      0.83    190362
+
+   micro avg       0.86      0.81      0.83    190362
+   macro avg       0.86      0.81      0.83    190362
+weighted avg       0.86      0.81      0.83    190362
+
+
+dataset:Dev
+准确率：
+0.9326491806326936
+precision_score:
+0.8306815249516503
+recall_score:
+0.8211183717475051
+f1_score0.8258722652448055
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.82      0.83    380285
+
+   micro avg       0.83      0.82      0.83    380285
+   macro avg       0.83      0.82      0.83    380285
+weighted avg       0.83      0.82      0.83    380285
+
+
+dataset:Test
+准确率：
+0.9325367306425457
+precision_score:
+0.8296211972104454
+recall_score:
+0.8192706527563274
+f1_score0.8244134383862518
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.82      0.82    190362
+
+   micro avg       0.83      0.82      0.82    190362
+   macro avg       0.83      0.82      0.82    190362
+weighted avg       0.83      0.82      0.82    190362
+
+
+dataset:Dev
+准确率：
+0.936336610212263
+precision_score:
+0.8614290989660266
+recall_score:
+0.8097163969128417
+f1_score0.8347726370094654
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.81      0.83    380285
+
+   micro avg       0.86      0.81      0.83    380285
+   macro avg       0.86      0.81      0.83    380285
+weighted avg       0.86      0.81      0.83    380285
+
+
+dataset:Test
+准确率：
+0.9362711936538954
+precision_score:
+0.8586054929034637
+recall_score:
+0.8074983452579821
+f1_score0.8322680722157703
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.81      0.83    190362
+
+   micro avg       0.86      0.81      0.83    190362
+   macro avg       0.86      0.81      0.83    190362
+weighted avg       0.86      0.81      0.83    190362
+
+
+dataset:Dev
+准确率：
+0.9310066828850406
+precision_score:
+0.8375744768278007
+recall_score:
+0.8254519636588348
+f1_score0.8314690371437727
+              precision    recall  f1-score   support
+
+    Chemical       0.84      0.83      0.83    380285
+
+   micro avg       0.84      0.83      0.83    380285
+   macro avg       0.84      0.83      0.83    380285
+weighted avg       0.84      0.83      0.83    380285
+
+
+dataset:Test
+准确率：
+0.9317618207014442
+precision_score:
+0.8368493727641562
+recall_score:
+0.8245710803626775
+f1_score0.830664856812487
+              precision    recall  f1-score   support
+
+    Chemical       0.84      0.82      0.83    190362
+
+   micro avg       0.84      0.82      0.83    190362
+   macro avg       0.84      0.82      0.83    190362
+weighted avg       0.84      0.82      0.83    190362
+
+
+dataset:Dev
+准确率：
+0.9356977627055613
+precision_score:
+0.8333259226904296
+recall_score:
+0.837813744954442
+f1_score0.8355638078303949
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.84      0.84    380285
+
+   micro avg       0.83      0.84      0.84    380285
+   macro avg       0.83      0.84      0.84    380285
+weighted avg       0.83      0.84      0.84    380285
+
+
+dataset:Test
+准确率：
+0.93674553783981
+precision_score:
+0.8335005748928609
+recall_score:
+0.83778275075908
+f1_score0.8356361769128798
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.84      0.84    190362
+
+   micro avg       0.83      0.84      0.84    190362
+   macro avg       0.83      0.84      0.84    190362
+weighted avg       0.83      0.84      0.84    190362
+
+
+dataset:Dev
+准确率：
+0.926295680585101
+precision_score:
+0.8293701489012227
+recall_score:
+0.8126010755091576
+f1_score0.820899982865818
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.81      0.82    380285
+
+   micro avg       0.83      0.81      0.82    380285
+   macro avg       0.83      0.81      0.82    380285
+weighted avg       0.83      0.81      0.82    380285
+
+
+dataset:Test
+准确率：
+0.9265484677796171
+precision_score:
+0.8282314840134906
+recall_score:
+0.8114329540559565
+f1_score0.8197461677055057
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.81      0.82    190362
+
+   micro avg       0.83      0.81      0.82    190362
+   macro avg       0.83      0.81      0.82    190362
+weighted avg       0.83      0.81      0.82    190362
+
+
+dataset:Dev
+准确率：
+0.9252760923606146
+precision_score:
+0.8203132998873759
+recall_score:
+0.8216679595566483
+f1_score0.8209900709145321
+              precision    recall  f1-score   support
+
+    Chemical       0.82      0.82      0.82    380285
+
+   micro avg       0.82      0.82      0.82    380285
+   macro avg       0.82      0.82      0.82    380285
+weighted avg       0.82      0.82      0.82    380285
+
+
+dataset:Test
+准确率：
+0.9258701999249915
+precision_score:
+0.8199769968856514
+recall_score:
+0.8201794475788236
+f1_score0.8200782097376113
+              precision    recall  f1-score   support
+
+    Chemical       0.82      0.82      0.82    190362
+
+   micro avg       0.82      0.82      0.82    190362
+   macro avg       0.82      0.82      0.82    190362
+weighted avg       0.82      0.82      0.82    190362
+
+
+dataset:Dev
+准确率：
+0.9302230653612278
+precision_score:
+0.8290069811285031
+recall_score:
+0.805956059271336
+f1_score0.8173190257014704
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.81      0.82    380285
+
+   micro avg       0.83      0.81      0.82    380285
+   macro avg       0.83      0.81      0.82    380285
+weighted avg       0.83      0.81      0.82    380285
+
+
+dataset:Test
+准确率：
+0.9308388444443656
+precision_score:
+0.8291030410520396
+recall_score:
+0.8054706296424706
+f1_score0.8171159984865359
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.81      0.82    190362
+
+   micro avg       0.83      0.81      0.82    190362
+   macro avg       0.83      0.81      0.82    190362
+weighted avg       0.83      0.81      0.82    190362
+
+
+dataset:Dev
+准确率：
+0.9383598486777007
+precision_score:
+0.8578364209576479
+recall_score:
+0.8149677215772381
+f1_score0.8358527764217886
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.81      0.84    380285
+
+   micro avg       0.86      0.81      0.84    380285
+   macro avg       0.86      0.81      0.84    380285
+weighted avg       0.86      0.81      0.84    380285
+
+
+dataset:Test
+准确率：
+0.9384957348921377
+precision_score:
+0.8570520263172444
+recall_score:
+0.8143169330013343
+f1_score0.8351381346435652
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.81      0.84    190362
+
+   micro avg       0.86      0.81      0.84    190362
+   macro avg       0.86      0.81      0.84    190362
+weighted avg       0.86      0.81      0.84    190362
+
+
+dataset:Dev
+准确率：
+0.9358916748385726
+precision_score:
+0.8510525514586754
+recall_score:
+0.8232641308492314
+f1_score0.8369277407161371
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.82      0.84    380285
+
+   micro avg       0.85      0.82      0.84    380285
+   macro avg       0.85      0.82      0.84    380285
+weighted avg       0.85      0.82      0.84    380285
+
+
+dataset:Test
+准确率：
+0.9362570076595503
+precision_score:
+0.8496018857471839
+recall_score:
+0.8217343797606665
+f1_score0.8354358043153172
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.82      0.84    190362
+
+   micro avg       0.85      0.82      0.84    190362
+   macro avg       0.85      0.82      0.84    190362
+weighted avg       0.85      0.82      0.84    190362
+
+
+dataset:Dev
+准确率：
+0.9322803934025603
+precision_score:
+0.858258165289954
+recall_score:
+0.8019038352814336
+f1_score0.8291245241979337
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.80      0.83    380285
+
+   micro avg       0.86      0.80      0.83    380285
+   macro avg       0.86      0.80      0.83    380285
+weighted avg       0.86      0.80      0.83    380285
+
+
+dataset:Test
+准确率：
+0.9330039818312877
+precision_score:
+0.8580226813384235
+recall_score:
+0.8028440550109791
+f1_score0.8295167742250639
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.80      0.83    190362
+
+   micro avg       0.86      0.80      0.83    190362
+   macro avg       0.86      0.80      0.83    190362
+weighted avg       0.86      0.80      0.83    190362
+
+
+dataset:Dev
+准确率：
+0.9335465776500771
+precision_score:
+0.8371047774610654
+recall_score:
+0.8193670536571256
+f1_score0.8281409465895561
+              precision    recall  f1-score   support
+
+    Chemical       0.84      0.82      0.83    380285
+
+   micro avg       0.84      0.82      0.83    380285
+   macro avg       0.84      0.82      0.83    380285
+weighted avg       0.84      0.82      0.83    380285
+
+
+dataset:Test
+准确率：
+0.9336698369408613
+precision_score:
+0.836685455747148
+recall_score:
+0.8179573654405816
+f1_score0.8272154235608811
+              precision    recall  f1-score   support
+
+    Chemical       0.84      0.82      0.83    190362
+
+   micro avg       0.84      0.82      0.83    190362
+   macro avg       0.84      0.82      0.83    190362
+weighted avg       0.84      0.82      0.83    190362
+
+
+dataset:Dev
+准确率：
+0.9037881487810763
+precision_score:
+0.8148980018998857
+recall_score:
+0.7985458274715016
+f1_score0.8066390504410053
+              precision    recall  f1-score   support
+
+    Chemical       0.81      0.80      0.81    380285
+
+   micro avg       0.81      0.80      0.81    380285
+   macro avg       0.81      0.80      0.81    380285
+weighted avg       0.81      0.80      0.81    380285
+
+
+dataset:Test
+准确率：
+0.9038508768274442
+precision_score:
+0.8146389819156061
+recall_score:
+0.7986467887498555
+f1_score0.806563621557242
+              precision    recall  f1-score   support
+
+    Chemical       0.81      0.80      0.81    190362
+
+   micro avg       0.81      0.80      0.81    190362
+   macro avg       0.81      0.80      0.81    190362
+weighted avg       0.81      0.80      0.81    190362
+
+
+dataset:Dev
+准确率：
+0.9344780642433553
+precision_score:
+0.851364815889457
+recall_score:
+0.8178708074207502
+f1_score0.834281775032222
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.82      0.83    380285
+
+   micro avg       0.85      0.82      0.83    380285
+   macro avg       0.85      0.82      0.83    380285
+weighted avg       0.85      0.82      0.83    380285
+
+
+dataset:Test
+准确率：
+0.9348605738412038
+precision_score:
+0.8515179332502787
+recall_score:
+0.8186402748447694
+f1_score0.8347554998473381
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.82      0.83    190362
+
+   micro avg       0.85      0.82      0.83    190362
+   macro avg       0.85      0.82      0.83    190362
+weighted avg       0.85      0.82      0.83    190362
+
+
+dataset:Dev
+准确率：
+0.9293783522338633
+precision_score:
+0.8336727160624031
+recall_score:
+0.8106630553400739
+f1_score0.8220068953196619
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.81      0.82    380285
+
+   micro avg       0.83      0.81      0.82    380285
+   macro avg       0.83      0.81      0.82    380285
+weighted avg       0.83      0.81      0.82    380285
+
+
+dataset:Test
+准确率：
+0.9298591242099066
+precision_score:
+0.8348693319487712
+recall_score:
+0.8108971328311323
+f1_score0.8227086431202001
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.81      0.82    190362
+
+   micro avg       0.83      0.81      0.82    190362
+   macro avg       0.83      0.81      0.82    190362
+weighted avg       0.83      0.81      0.82    190362
+
+
+dataset:Dev
+准确率：
+0.9381499985611542
+precision_score:
+0.8622592533606037
+recall_score:
+0.8114966406773867
+f1_score0.836108168446264
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.81      0.84    380285
+
+   micro avg       0.86      0.81      0.84    380285
+   macro avg       0.86      0.81      0.84    380285
+weighted avg       0.86      0.81      0.84    380285
+
+
+dataset:Test
+准确率：
+0.9384744559006201
+precision_score:
+0.8609141869091111
+recall_score:
+0.8108183355921875
+f1_score0.8351156644041478
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.81      0.84    190362
+
+   micro avg       0.86      0.81      0.84    190362
+   macro avg       0.86      0.81      0.84    190362
+weighted avg       0.86      0.81      0.84    190362
+
+
+dataset:Dev
+准确率：
+0.9337542141577994
+precision_score:
+0.8491723004643058
+recall_score:
+0.809887321351092
+f1_score0.8290646951386113
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.81      0.83    380285
+
+   micro avg       0.85      0.81      0.83    380285
+   macro avg       0.85      0.81      0.83    380285
+weighted avg       0.85      0.81      0.83    380285
+
+
+dataset:Test
+准确率：
+0.9335643286079195
+precision_score:
+0.8476965485367183
+recall_score:
+0.8093422006492893
+f1_score0.8280754936027155
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.81      0.83    190362
+
+   micro avg       0.85      0.81      0.83    190362
+   macro avg       0.85      0.81      0.83    190362
+weighted avg       0.85      0.81      0.83    190362
+
+
+dataset:Dev
+准确率：
+0.9284021507423337
+precision_score:
+0.8273311323762231
+recall_score:
+0.805264472698108
+f1_score0.8161486726890157
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.81      0.82    380285
+
+   micro avg       0.83      0.81      0.82    380285
+   macro avg       0.83      0.81      0.82    380285
+weighted avg       0.83      0.81      0.82    380285
+
+
+dataset:Test
+准确率：
+0.92891752883525
+precision_score:
+0.8278750993184189
+recall_score:
+0.8046038600140785
+f1_score0.8160736121138175
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.80      0.82    190362
+
+   micro avg       0.83      0.80      0.82    190362
+   macro avg       0.83      0.80      0.82    190362
+weighted avg       0.83      0.80      0.82    190362
+
+
+dataset:Dev
+准确率：
+0.9356499487549557
+precision_score:
+0.8548522351084121
+recall_score:
+0.8202768975899655
+f1_score0.8372077419285577
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.82      0.84    380285
+
+   micro avg       0.85      0.82      0.84    380285
+   macro avg       0.85      0.82      0.84    380285
+weighted avg       0.85      0.82      0.84    380285
+
+
+dataset:Test
+准确率：
+0.9359209769185006
+precision_score:
+0.8534998385658077
+recall_score:
+0.8193126779504313
+f1_score0.8360569178689837
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.82      0.84    190362
+
+   micro avg       0.85      0.82      0.84    190362
+   macro avg       0.85      0.82      0.84    190362
+weighted avg       0.85      0.82      0.84    190362
+
+
+dataset:Dev
+准确率：
+0.9397309579834909
+precision_score:
+0.8487994808565866
+recall_score:
+0.8323651997843723
+f1_score0.8405020133907412
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.83      0.84    380285
+
+   micro avg       0.85      0.83      0.84    380285
+   macro avg       0.85      0.83      0.84    380285
+weighted avg       0.85      0.83      0.84    380285
+
+
+dataset:Test
+准确率：
+0.9398425177302764
+precision_score:
+0.8482785606698149
+recall_score:
+0.8313318834641368
+f1_score0.8397197290678948
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.83      0.84    190362
+
+   micro avg       0.85      0.83      0.84    190362
+   macro avg       0.85      0.83      0.84    190362
+weighted avg       0.85      0.83      0.84    190362
+
+
+dataset:Dev
+准确率：
+0.9278651292415512
+precision_score:
+0.837973996362748
+recall_score:
+0.8118069342729795
+f1_score0.8246829483300944
+              precision    recall  f1-score   support
+
+    Chemical       0.84      0.81      0.82    380285
+
+   micro avg       0.84      0.81      0.82    380285
+   macro avg       0.84      0.81      0.82    380285
+weighted avg       0.84      0.81      0.82    380285
+
+
+dataset:Test
+准确率：
+0.9283039845798241
+precision_score:
+0.8382769204073444
+recall_score:
+0.8120843445645665
+f1_score0.8249727837428223
+              precision    recall  f1-score   support
+
+    Chemical       0.84      0.81      0.82    190362
+
+   micro avg       0.84      0.81      0.82    190362
+   macro avg       0.84      0.81      0.82    190362
+weighted avg       0.84      0.81      0.82    190362
+
+
+dataset:Dev
+准确率：
+0.9387268650207747
+precision_score:
+0.8470221250321585
+recall_score:
+0.8311345438289703
+f1_score0.8390031283305704
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.83      0.84    380285
+
+   micro avg       0.85      0.83      0.84    380285
+   macro avg       0.85      0.83      0.84    380285
+weighted avg       0.85      0.83      0.84    380285
+
+
+dataset:Test
+准确率：
+0.9389532332097674
+precision_score:
+0.84642323571463
+recall_score:
+0.8303495445519589
+f1_score0.8383093482255793
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.83      0.84    190362
+
+   micro avg       0.85      0.83      0.84    190362
+   macro avg       0.85      0.83      0.84    190362
+weighted avg       0.85      0.83      0.84    190362
+
+
+dataset:Dev
+准确率：
+0.9289714909319514
+precision_score:
+0.8145909578204132
+recall_score:
+0.8112257911829286
+f1_score0.812904891837802
+              precision    recall  f1-score   support
+
+    Chemical       0.81      0.81      0.81    380285
+
+   micro avg       0.81      0.81      0.81    380285
+   macro avg       0.81      0.81      0.81    380285
+weighted avg       0.81      0.81      0.81    380285
+
+
+dataset:Test
+准确率：
+0.9292438067051876
+precision_score:
+0.8127265934551654
+recall_score:
+0.8113646631155378
+f1_score0.812045057241624
+              precision    recall  f1-score   support
+
+    Chemical       0.81      0.81      0.81    190362
+
+   micro avg       0.81      0.81      0.81    190362
+   macro avg       0.81      0.81      0.81    190362
+weighted avg       0.81      0.81      0.81    190362
+
+
+dataset:Dev
+准确率：
+0.9382788305947303
+precision_score:
+0.8521818092573504
+recall_score:
+0.8217705142195985
+f1_score0.8366999152609307
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.82      0.84    380285
+
+   micro avg       0.85      0.82      0.84    380285
+   macro avg       0.85      0.82      0.84    380285
+weighted avg       0.85      0.82      0.84    380285
+
+
+dataset:Test
+准确率：
+0.9381171461680526
+precision_score:
+0.8504210652460481
+recall_score:
+0.8201321692354566
+f1_score0.8350020323898766
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.82      0.84    190362
+
+   micro avg       0.85      0.82      0.84    190362
+   macro avg       0.85      0.82      0.84    190362
+weighted avg       0.85      0.82      0.84    190362
+
+
+dataset:Dev
+准确率：
+0.939688013972299
+precision_score:
+0.8590935700379835
+recall_score:
+0.829680371300472
+f1_score0.8441308273694067
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.83      0.84    380285
+
+   micro avg       0.86      0.83      0.84    380285
+   macro avg       0.86      0.83      0.84    380285
+weighted avg       0.86      0.83      0.84    380285
+
+
+dataset:Test
+准确率：
+0.9399746248026152
+precision_score:
+0.858708182885979
+recall_score:
+0.8295405595654595
+f1_score0.8438724088730234
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.83      0.84    190362
+
+   micro avg       0.86      0.83      0.84    190362
+   macro avg       0.86      0.83      0.84    190362
+weighted avg       0.86      0.83      0.84    190362
+
+
+dataset:Dev
+准确率：
+0.9375279744815175
+precision_score:
+0.8542976028159986
+recall_score:
+0.8271086159064912
+f1_score0.8404832811600245
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.83      0.84    380285
+
+   micro avg       0.85      0.83      0.84    380285
+   macro avg       0.85      0.83      0.84    380285
+weighted avg       0.85      0.83      0.84    380285
+
+
+dataset:Test
+准确率：
+0.9372775126277515
+precision_score:
+0.8529119707419245
+recall_score:
+0.8257110137527448
+f1_score0.8390911056364156
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.83      0.84    190362
+
+   micro avg       0.85      0.83      0.84    190362
+   macro avg       0.85      0.83      0.84    190362
+weighted avg       0.85      0.83      0.84    190362
+
+
+dataset:Dev
+准确率：
+0.938488237989512
+precision_score:
+0.8327130375289679
+recall_score:
+0.8513430716436357
+f1_score0.8419250063062526
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.85      0.84    380285
+
+   micro avg       0.83      0.85      0.84    380285
+   macro avg       0.83      0.85      0.84    380285
+weighted avg       0.83      0.85      0.84    380285
+
+
+dataset:Test
+准确率：
+0.9391190320186759
+precision_score:
+0.8334584147219081
+recall_score:
+0.8517508746493523
+f1_score0.8425053650020005
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.85      0.84    190362
+
+   micro avg       0.83      0.85      0.84    190362
+   macro avg       0.83      0.85      0.84    190362
+weighted avg       0.83      0.85      0.84    190362
+
+
+dataset:Dev
+准确率：
+0.9380676523128891
+precision_score:
+0.8506536267850923
+recall_score:
+0.822028215680345
+f1_score0.8360959809995814
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.82      0.84    380285
+
+   micro avg       0.85      0.82      0.84    380285
+   macro avg       0.85      0.82      0.84    380285
+weighted avg       0.85      0.82      0.84    380285
+
+
+dataset:Test
+准确率：
+0.9376232962399136
+precision_score:
+0.8491107535765534
+recall_score:
+0.820625965266177
+f1_score0.8346253920253888
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.82      0.83    190362
+
+   micro avg       0.85      0.82      0.83    190362
+   macro avg       0.85      0.82      0.83    190362
+weighted avg       0.85      0.82      0.83    190362
+
+
+dataset:Dev
+准确率：
+0.9391372680968055
+precision_score:
+0.8506315447399024
+recall_score:
+0.8328621954586691
+f1_score0.8416530919739684
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.83      0.84    380285
+
+   micro avg       0.85      0.83      0.84    380285
+   macro avg       0.85      0.83      0.84    380285
+weighted avg       0.85      0.83      0.84    380285
+
+
+dataset:Test
+准确率：
+0.9391341046376676
+precision_score:
+0.85034885529343
+recall_score:
+0.8329498534371356
+f1_score0.8415594341199856
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.83      0.84    190362
+
+   micro avg       0.85      0.83      0.84    190362
+   macro avg       0.85      0.83      0.84    190362
+weighted avg       0.85      0.83      0.84    190362
+
+
+dataset:Dev
+准确率：
+0.937542584299758
+precision_score:
+0.8521534124052109
+recall_score:
+0.8297697779297106
+f1_score0.8408126504667718
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.83      0.84    380285
+
+   micro avg       0.85      0.83      0.84    380285
+   macro avg       0.85      0.83      0.84    380285
+weighted avg       0.85      0.83      0.84    380285
+
+
+dataset:Test
+准确率：
+0.9382031487587699
+precision_score:
+0.8519667452537536
+recall_score:
+0.8295668253117744
+f1_score0.8406175892089567
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.83      0.84    190362
+
+   micro avg       0.85      0.83      0.84    190362
+   macro avg       0.85      0.83      0.84    190362
+weighted avg       0.85      0.83      0.84    190362
+
+
+dataset:Dev
+准确率：
+0.9341624036250058
+precision_score:
+0.8182692758928153
+recall_score:
+0.8253204833217193
+f1_score0.821779754322528
+              precision    recall  f1-score   support
+
+    Chemical       0.82      0.83      0.82    380285
+
+   micro avg       0.82      0.83      0.82    380285
+   macro avg       0.82      0.83      0.82    380285
+weighted avg       0.82      0.83      0.82    380285
+
+
+dataset:Test
+准确率：
+0.934262988829416
+precision_score:
+0.8171827704213779
+recall_score:
+0.8253905716477028
+f1_score0.821266164187374
+              precision    recall  f1-score   support
+
+    Chemical       0.82      0.83      0.82    190362
+
+   micro avg       0.82      0.83      0.82    190362
+   macro avg       0.82      0.83      0.82    190362
+weighted avg       0.82      0.83      0.82    190362
+
+
+dataset:Train
+accuracy：
+0.8873430251690498
+precision_score:
+0.6710395475071842
+recall_score:
+0.5989317004852946
+f1_score0.6329385140280603
+              precision    recall  f1-score   support
+
+    Chemical       0.67      0.60      0.63    122812
+
+   micro avg       0.67      0.60      0.63    122812
+   macro avg       0.67      0.60      0.63    122812
+weighted avg       0.67      0.60      0.63    122812
+
+
+dataset:Dev
+accuracy：
+0.8681529392694624
+precision_score:
+0.6153343853730207
+recall_score:
+0.5505355404089581
+f1_score0.5811342087005679
+              precision    recall  f1-score   support
+
+    Chemical       0.62      0.55      0.58     41080
+
+   micro avg       0.62      0.55      0.58     41080
+   macro avg       0.62      0.55      0.58     41080
+weighted avg       0.62      0.55      0.58     41080
+
+
+dataset:Test
+accuracy：
+0.8677187015653677
+precision_score:
+0.6124280017722641
+recall_score:
+0.5469654251372608
+f1_score0.5778486139053641
+              precision    recall  f1-score   support
+
+    Chemical       0.61      0.55      0.58     40434
+
+   micro avg       0.61      0.55      0.58     40434
+   macro avg       0.61      0.55      0.58     40434
+weighted avg       0.61      0.55      0.58     40434
+
+
+dataset:Train
+accuracy：
+0.9024818742502893
+precision_score:
+0.711635706466019
+recall_score:
+0.6669136566459304
+f1_score0.6885492589510143
+              precision    recall  f1-score   support
+
+    Chemical       0.71      0.67      0.69    122812
+
+   micro avg       0.71      0.67      0.69    122812
+   macro avg       0.71      0.67      0.69    122812
+weighted avg       0.71      0.67      0.69    122812
+
+
+dataset:Dev
+accuracy：
+0.8704539074947517
+precision_score:
+0.6146149259921715
+recall_score:
+0.5771665043816943
+f1_score0.5953023588636279
+              precision    recall  f1-score   support
+
+    Chemical       0.61      0.58      0.60     41080
+
+   micro avg       0.61      0.58      0.60     41080
+   macro avg       0.61      0.58      0.60     41080
+weighted avg       0.61      0.58      0.60     41080
+
+
+dataset:Test
+accuracy：
+0.8698552758321343
+precision_score:
+0.611788511063226
+recall_score:
+0.5757778107533265
+f1_score0.5932371827540517
+              precision    recall  f1-score   support
+
+    Chemical       0.61      0.58      0.59     40434
+
+   micro avg       0.61      0.58      0.59     40434
+   macro avg       0.61      0.58      0.59     40434
+weighted avg       0.61      0.58      0.59     40434
+
+
+dataset:Train
+accuracy：
+0.9092080400836492
+precision_score:
+0.7295289977667998
+recall_score:
+0.7022277953294467
+f1_score0.7156181024611249
+              precision    recall  f1-score   support
+
+    Chemical       0.73      0.70      0.72    122812
+
+   micro avg       0.73      0.70      0.72    122812
+   macro avg       0.73      0.70      0.72    122812
+weighted avg       0.73      0.70      0.72    122812
+
+
+dataset:Dev
+accuracy：
+0.8702087871683463
+precision_score:
+0.6124817113162807
+recall_score:
+0.5910418695228822
+f1_score0.6015708233195411
+              precision    recall  f1-score   support
+
+    Chemical       0.61      0.59      0.60     41080
+
+   micro avg       0.61      0.59      0.60     41080
+   macro avg       0.61      0.59      0.60     41080
+weighted avg       0.61      0.59      0.60     41080
+
+
+dataset:Test
+accuracy：
+0.8703864464290669
+precision_score:
+0.6100714267427869
+recall_score:
+0.5893554929020132
+f1_score0.5995345619221334
+              precision    recall  f1-score   support
+
+    Chemical       0.61      0.59      0.60     40434
+
+   micro avg       0.61      0.59      0.60     40434
+   macro avg       0.61      0.59      0.60     40434
+weighted avg       0.61      0.59      0.60     40434
+
+
+dataset:Train
+accuracy：
+0.9119056717938919
+precision_score:
+0.7474591957651822
+recall_score:
+0.7036445949907175
+f1_score0.7248904267589389
+              precision    recall  f1-score   support
+
+    Chemical       0.75      0.70      0.72    122812
+
+   micro avg       0.75      0.70      0.72    122812
+   macro avg       0.75      0.70      0.72    122812
+weighted avg       0.75      0.70      0.72    122812
+
+
+dataset:Dev
+accuracy：
+0.8650296318846195
+precision_score:
+0.6053947334683726
+recall_score:
+0.5747565725413827
+f1_score0.589677951074537
+              precision    recall  f1-score   support
+
+    Chemical       0.61      0.57      0.59     41080
+
+   micro avg       0.61      0.57      0.59     41080
+   macro avg       0.61      0.57      0.59     41080
+weighted avg       0.61      0.57      0.59     41080
+
+
+dataset:Test
+accuracy：
+0.8670051888232193
+precision_score:
+0.6080730517795995
+recall_score:
+0.5797101449275363
+f1_score0.5935529614342508
+              precision    recall  f1-score   support
+
+    Chemical       0.61      0.58      0.59     40434
+
+   micro avg       0.61      0.58      0.59     40434
+   macro avg       0.61      0.58      0.59     40434
+weighted avg       0.61      0.58      0.59     40434
+
+
+dataset:Train
+accuracy：
+0.9233981401866183
+precision_score:
+0.7797797117215121
+recall_score:
+0.747093117936358
+f1_score0.7630865450190456
+              precision    recall  f1-score   support
+
+    Chemical       0.78      0.75      0.76    122812
+
+   micro avg       0.78      0.75      0.76    122812
+   macro avg       0.78      0.75      0.76    122812
+weighted avg       0.78      0.75      0.76    122812
+
+
+dataset:Dev
+accuracy：
+0.8750756117135887
+precision_score:
+0.6290983606557377
+recall_score:
+0.6053310613437196
+f1_score0.6169859071059945
+              precision    recall  f1-score   support
+
+    Chemical       0.63      0.61      0.62     41080
+
+   micro avg       0.63      0.61      0.62     41080
+   macro avg       0.63      0.61      0.62     41080
+weighted avg       0.63      0.61      0.62     41080
+
+
+dataset:Test
+accuracy：
+0.8740927487285599
+precision_score:
+0.6273760357078727
+recall_score:
+0.6048622446455952
+f1_score0.615913469408313
+              precision    recall  f1-score   support
+
+    Chemical       0.63      0.60      0.62     40434
+
+   micro avg       0.63      0.60      0.62     40434
+   macro avg       0.63      0.60      0.62     40434
+weighted avg       0.63      0.60      0.62     40434
+
+
+dataset:Train
+accuracy：
+0.9198181055805017
+precision_score:
+0.7579228683148335
+recall_score:
+0.7828306680128978
+f1_score0.7701754385964912
+              precision    recall  f1-score   support
+
+    Chemical       0.76      0.78      0.77    122812
+
+   micro avg       0.76      0.78      0.77    122812
+   macro avg       0.76      0.78      0.77    122812
+weighted avg       0.76      0.78      0.77    122812
+
+
+dataset:Dev
+accuracy：
+0.868777600746431
+precision_score:
+0.6086966730060341
+recall_score:
+0.6310856864654333
+f1_score0.6196890200905929
+              precision    recall  f1-score   support
+
+    Chemical       0.61      0.63      0.62     41080
+
+   micro avg       0.61      0.63      0.62     41080
+   macro avg       0.61      0.63      0.62     41080
+weighted avg       0.61      0.63      0.62     41080
+
+
+dataset:Test
+accuracy：
+0.8698909514692417
+precision_score:
+0.6088806484584849
+recall_score:
+0.6335015086313499
+f1_score0.6209471170745307
+              precision    recall  f1-score   support
+
+    Chemical       0.61      0.63      0.62     40434
+
+   micro avg       0.61      0.63      0.62     40434
+   macro avg       0.61      0.63      0.62     40434
+weighted avg       0.61      0.63      0.62     40434
+
+
+dataset:Train
+accuracy：
+0.920443085676677
+precision_score:
+0.7709987017042187
+recall_score:
+0.7640051460769306
+f1_score0.7674859923929491
+              precision    recall  f1-score   support
+
+    Chemical       0.77      0.76      0.77    122812
+
+   micro avg       0.77      0.76      0.77    122812
+   macro avg       0.77      0.76      0.77    122812
+weighted avg       0.77      0.76      0.77    122812
+
+
+dataset:Dev
+accuracy：
+0.868315034969182
+precision_score:
+0.6122433999657458
+recall_score:
+0.6091285296981499
+f1_score0.6106819928981952
+              precision    recall  f1-score   support
+
+    Chemical       0.61      0.61      0.61     41080
+
+   micro avg       0.61      0.61      0.61     41080
+   macro avg       0.61      0.61      0.61     41080
+weighted avg       0.61      0.61      0.61     41080
+
+
+dataset:Test
+accuracy：
+0.8686581600091964
+precision_score:
+0.6110547039449246
+recall_score:
+0.6102537468467132
+f1_score0.6106539627544391
+              precision    recall  f1-score   support
+
+    Chemical       0.61      0.61      0.61     40434
+
+   micro avg       0.61      0.61      0.61     40434
+   macro avg       0.61      0.61      0.61     40434
+weighted avg       0.61      0.61      0.61     40434
+
+
+dataset:Train
+accuracy：
+0.9277915777629162
+precision_score:
+0.8070823724255834
+recall_score:
+0.7380467706738755
+f1_score0.7710223333716117
+              precision    recall  f1-score   support
+
+    Chemical       0.81      0.74      0.77    122812
+
+   micro avg       0.81      0.74      0.77    122812
+   macro avg       0.81      0.74      0.77    122812
+weighted avg       0.81      0.74      0.77    122812
+
+
+dataset:Dev
+accuracy：
+0.8761944673970198
+precision_score:
+0.64209638300116
+recall_score:
+0.592891918208374
+f1_score0.6165139472485193
+              precision    recall  f1-score   support
+
+    Chemical       0.64      0.59      0.62     41080
+
+   micro avg       0.64      0.59      0.62     41080
+   macro avg       0.64      0.59      0.62     41080
+weighted avg       0.64      0.59      0.62     41080
+
+
+dataset:Test
+accuracy：
+0.8755118462934995
+precision_score:
+0.6398693160516309
+recall_score:
+0.5909383192362863
+f1_score0.61443118699856
+              precision    recall  f1-score   support
+
+    Chemical       0.64      0.59      0.61     40434
+
+   micro avg       0.64      0.59      0.61     40434
+   macro avg       0.64      0.59      0.61     40434
+weighted avg       0.64      0.59      0.61     40434
+
+
+dataset:Train
+accuracy：
+0.9292777300085985
+precision_score:
+0.8103924431388415
+recall_score:
+0.7502524183304563
+f1_score0.7791636717263541
+              precision    recall  f1-score   support
+
+    Chemical       0.81      0.75      0.78    122812
+
+   micro avg       0.81      0.75      0.78    122812
+   macro avg       0.81      0.75      0.78    122812
+weighted avg       0.81      0.75      0.78    122812
+
+
+dataset:Dev
+accuracy：
+0.8763526095430878
+precision_score:
+0.642603456894057
+recall_score:
+0.5945959104186952
+f1_score0.6176682555537293
+              precision    recall  f1-score   support
+
+    Chemical       0.64      0.59      0.62     41080
+
+   micro avg       0.64      0.59      0.62     41080
+   macro avg       0.64      0.59      0.62     41080
+weighted avg       0.64      0.59      0.62     41080
+
+
+dataset:Test
+accuracy：
+0.874948964019138
+precision_score:
+0.637311517484761
+recall_score:
+0.5895533461937973
+f1_score0.6125028906189778
+              precision    recall  f1-score   support
+
+    Chemical       0.64      0.59      0.61     40434
+
+   micro avg       0.64      0.59      0.61     40434
+   macro avg       0.64      0.59      0.61     40434
+weighted avg       0.64      0.59      0.61     40434
+
+
+dataset:Train
+accuracy：
+0.9244066006390455
+precision_score:
+0.7761164794985635
+recall_score:
+0.7743217275184835
+f1_score0.7752180647265019
+              precision    recall  f1-score   support
+
+    Chemical       0.78      0.77      0.78    122812
+
+   micro avg       0.78      0.77      0.78    122812
+   macro avg       0.78      0.77      0.78    122812
+weighted avg       0.78      0.77      0.78    122812
+
+
+dataset:Dev
+accuracy：
+0.8695208688329505
+precision_score:
+0.6129640051875597
+recall_score:
+0.6097857838364168
+f1_score0.6113707640304099
+              precision    recall  f1-score   support
+
+    Chemical       0.61      0.61      0.61     41080
+
+   micro avg       0.61      0.61      0.61     41080
+   macro avg       0.61      0.61      0.61     41080
+weighted avg       0.61      0.61      0.61     41080
+
+
+dataset:Test
+accuracy：
+0.869787888517598
+precision_score:
+0.6124445765524758
+recall_score:
+0.611490329920364
+f1_score0.6119670812449723
+              precision    recall  f1-score   support
+
+    Chemical       0.61      0.61      0.61     40434
+
+   micro avg       0.61      0.61      0.61     40434
+   macro avg       0.61      0.61      0.61     40434
+weighted avg       0.61      0.61      0.61     40434
+
+
+dataset:Train
+accuracy：
+0.9318002080613144
+precision_score:
+0.8283028248587571
+recall_score:
+0.7461078721948995
+f1_score0.7850597805831981
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.75      0.79    122812
+
+   micro avg       0.83      0.75      0.79    122812
+   macro avg       0.83      0.75      0.79    122812
+weighted avg       0.83      0.75      0.79    122812
+
+
+dataset:Dev
+accuracy：
+0.8769377354835394
+precision_score:
+0.6547799070688186
+recall_score:
+0.5797224926971762
+f1_score0.6149694645646925
+              precision    recall  f1-score   support
+
+    Chemical       0.65      0.58      0.61     41080
+
+   micro avg       0.65      0.58      0.61     41080
+   macro avg       0.65      0.58      0.61     41080
+weighted avg       0.65      0.58      0.61     41080
+
+
+dataset:Test
+accuracy：
+0.8770340068100827
+precision_score:
+0.6533106392477469
+recall_score:
+0.5790671217292378
+f1_score0.6139525126846985
+              precision    recall  f1-score   support
+
+    Chemical       0.65      0.58      0.61     40434
+
+   micro avg       0.65      0.58      0.61     40434
+   macro avg       0.65      0.58      0.61     40434
+weighted avg       0.65      0.58      0.61     40434
+
+
+dataset:Train
+accuracy：
+0.9220168147511226
+precision_score:
+0.7630232376183397
+recall_score:
+0.7940754975083868
+f1_score0.7782397395280541
+              precision    recall  f1-score   support
+
+    Chemical       0.76      0.79      0.78    122812
+
+   micro avg       0.76      0.79      0.78    122812
+   macro avg       0.76      0.79      0.78    122812
+weighted avg       0.76      0.79      0.78    122812
+
+
+dataset:Dev
+accuracy：
+0.8672317612686163
+precision_score:
+0.603575429424944
+recall_score:
+0.6295520934761442
+f1_score0.6162901534648746
+              precision    recall  f1-score   support
+
+    Chemical       0.60      0.63      0.62     41080
+
+   micro avg       0.60      0.63      0.62     41080
+   macro avg       0.60      0.63      0.62     41080
+weighted avg       0.60      0.63      0.62     41080
+
+
+dataset:Test
+accuracy：
+0.8674451883475441
+precision_score:
+0.6039365618804872
+recall_score:
+0.6328832170945244
+f1_score0.6180711542641838
+              precision    recall  f1-score   support
+
+    Chemical       0.60      0.63      0.62     40434
+
+   micro avg       0.60      0.63      0.62     40434
+   macro avg       0.60      0.63      0.62     40434
+weighted avg       0.60      0.63      0.62     40434
+
+
+dataset:Train
+accuracy：
+0.9301442098446971
+precision_score:
+0.8071724773460298
+recall_score:
+0.7702748917043937
+f1_score0.7882921544935628
+              precision    recall  f1-score   support
+
+    Chemical       0.81      0.77      0.79    122812
+
+   micro avg       0.81      0.77      0.79    122812
+   macro avg       0.81      0.77      0.79    122812
+weighted avg       0.81      0.77      0.79    122812
+
+
+dataset:Dev
+accuracy：
+0.8750637510526337
+precision_score:
+0.6367651968463495
+recall_score:
+0.6035783836416748
+f1_score0.619727814644022
+              precision    recall  f1-score   support
+
+    Chemical       0.64      0.60      0.62     41080
+
+   micro avg       0.64      0.60      0.62     41080
+   macro avg       0.64      0.60      0.62     41080
+weighted avg       0.64      0.60      0.62     41080
+
+
+dataset:Test
+accuracy：
+0.8748141893900655
+precision_score:
+0.636619351478057
+recall_score:
+0.6045160013849731
+f1_score0.6201524819546106
+              precision    recall  f1-score   support
+
+    Chemical       0.64      0.60      0.62     40434
+
+   micro avg       0.64      0.60      0.62     40434
+   macro avg       0.64      0.60      0.62     40434
+weighted avg       0.64      0.60      0.62     40434
+
+
+dataset:Train
+accuracy：
+0.9303220173455198
+precision_score:
+0.852994679602535
+recall_score:
+0.7101667589486369
+f1_score0.7750555407446904
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.71      0.78    122812
+
+   micro avg       0.85      0.71      0.78    122812
+   macro avg       0.85      0.71      0.78    122812
+weighted avg       0.85      0.71      0.78    122812
+
+
+dataset:Dev
+accuracy：
+0.8749728193186446
+precision_score:
+0.6693008022595475
+recall_score:
+0.5422346640701071
+f1_score0.5991043692258039
+              precision    recall  f1-score   support
+
+    Chemical       0.67      0.54      0.60     41080
+
+   micro avg       0.67      0.54      0.60     41080
+   macro avg       0.67      0.54      0.60     41080
+weighted avg       0.67      0.54      0.60     41080
+
+
+dataset:Test
+accuracy：
+0.874988603615924
+precision_score:
+0.6661486424718895
+recall_score:
+0.5406588514616412
+f1_score0.5968792234918294
+              precision    recall  f1-score   support
+
+    Chemical       0.67      0.54      0.60     40434
+
+   micro avg       0.67      0.54      0.60     40434
+   macro avg       0.67      0.54      0.60     40434
+weighted avg       0.67      0.54      0.60     40434
+
+
+dataset:Train
+accuracy：
+0.9282759041644109
+precision_score:
+0.7523280984411547
+recall_score:
+0.8433214995277335
+f1_score0.7952303073580111
+              precision    recall  f1-score   support
+
+    Chemical       0.75      0.84      0.80    122812
+
+   micro avg       0.75      0.84      0.80    122812
+   macro avg       0.75      0.84      0.80    122812
+weighted avg       0.75      0.84      0.80    122812
+
+
+dataset:Dev
+accuracy：
+0.8695208688329505
+precision_score:
+0.5914908043054496
+recall_score:
+0.6795520934761441
+f1_score0.6324708867642395
+              precision    recall  f1-score   support
+
+    Chemical       0.59      0.68      0.63     41080
+
+   micro avg       0.59      0.68      0.63     41080
+   macro avg       0.59      0.68      0.63     41080
+weighted avg       0.59      0.68      0.63     41080
+
+
+dataset:Test
+accuracy：
+0.8702873474371019
+precision_score:
+0.5933723949949563
+recall_score:
+0.6837562447445219
+f1_score0.6353660358279615
+              precision    recall  f1-score   support
+
+    Chemical       0.59      0.68      0.64     40434
+
+   micro avg       0.59      0.68      0.64     40434
+   macro avg       0.59      0.68      0.64     40434
+weighted avg       0.59      0.68      0.64     40434
+
+
+dataset:Train
+accuracy：
+0.9319965924652082
+precision_score:
+0.7994771263391421
+recall_score:
+0.7893284043904505
+f1_score0.7943703521602852
+              precision    recall  f1-score   support
+
+    Chemical       0.80      0.79      0.79    122812
+
+   micro avg       0.80      0.79      0.79    122812
+   macro avg       0.80      0.79      0.79    122812
+weighted avg       0.80      0.79      0.79    122812
+
+
+dataset:Dev
+accuracy：
+0.8732490699265034
+precision_score:
+0.6281672508763144
+recall_score:
+0.6107351509250244
+f1_score0.6193285608491731
+              precision    recall  f1-score   support
+
+    Chemical       0.63      0.61      0.62     41080
+
+   micro avg       0.63      0.61      0.62     41080
+   macro avg       0.63      0.61      0.62     41080
+weighted avg       0.63      0.61      0.62     41080
+
+
+dataset:Test
+accuracy：
+0.8743345502689547
+precision_score:
+0.6258059602985226
+recall_score:
+0.6097096502943068
+f1_score0.6176529538507791
+              precision    recall  f1-score   support
+
+    Chemical       0.63      0.61      0.62     40434
+
+   micro avg       0.63      0.61      0.62     40434
+   macro avg       0.63      0.61      0.62     40434
+weighted avg       0.63      0.61      0.62     40434
+
+
+dataset:Train
+accuracy：
+0.9355593770899016
+precision_score:
+0.8449310906528543
+recall_score:
+0.7517913558935609
+f1_score0.7956447179062935
+              precision    recall  f1-score   support
+
+    Chemical       0.84      0.75      0.80    122812
+
+   micro avg       0.84      0.75      0.80    122812
+   macro avg       0.84      0.75      0.80    122812
+weighted avg       0.84      0.75      0.80    122812
+
+
+dataset:Dev
+accuracy：
+0.8758979508731424
+precision_score:
+0.6591444548525363
+recall_score:
+0.5652629016553067
+f1_score0.6086044896408025
+              precision    recall  f1-score   support
+
+    Chemical       0.66      0.57      0.61     41080
+
+   micro avg       0.66      0.57      0.61     41080
+   macro avg       0.66      0.57      0.61     41080
+weighted avg       0.66      0.57      0.61     41080
+
+
+dataset:Test
+accuracy：
+0.8762095031969335
+precision_score:
+0.6568570934455525
+recall_score:
+0.5636098333086017
+f1_score0.6066712810137366
+              precision    recall  f1-score   support
+
+    Chemical       0.66      0.56      0.61     40434
+
+   micro avg       0.66      0.56      0.61     40434
+   macro avg       0.66      0.56      0.61     40434
+weighted avg       0.66      0.56      0.61     40434
+
+
+dataset:Train
+accuracy：
+0.9361737418128935
+precision_score:
+0.8482737481539276
+recall_score:
+0.743624401524281
+f1_score0.7925093177942754
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.74      0.79    122812
+
+   micro avg       0.85      0.74      0.79    122812
+   macro avg       0.85      0.74      0.79    122812
+weighted avg       0.85      0.74      0.79    122812
+
+
+dataset:Dev
+accuracy：
+0.8772302984537652
+precision_score:
+0.6642023235235349
+recall_score:
+0.56643135345667
+f1_score0.6114330009328235
+              precision    recall  f1-score   support
+
+    Chemical       0.66      0.57      0.61     41080
+
+   micro avg       0.66      0.57      0.61     41080
+   macro avg       0.66      0.57      0.61     41080
+weighted avg       0.66      0.57      0.61     41080
+
+
+dataset:Test
+accuracy：
+0.8772718443907989
+precision_score:
+0.6589754752575824
+recall_score:
+0.5615323737448682
+f1_score0.6063640855132263
+              precision    recall  f1-score   support
+
+    Chemical       0.66      0.56      0.61     40434
+
+   micro avg       0.66      0.56      0.61     40434
+   macro avg       0.66      0.56      0.61     40434
+weighted avg       0.66      0.56      0.61     40434
+
+
+dataset:Train
+accuracy：
+0.9378761822871883
+precision_score:
+0.8537080191912269
+recall_score:
+0.7606504250398983
+f1_score0.804497130086937
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.76      0.80    122812
+
+   micro avg       0.85      0.76      0.80    122812
+   macro avg       0.85      0.76      0.80    122812
+weighted avg       0.85      0.76      0.80    122812
+
+
+dataset:Dev
+accuracy：
+0.8775782111751147
+precision_score:
+0.6677045004245683
+recall_score:
+0.5742453748782863
+f1_score0.6174584478471404
+              precision    recall  f1-score   support
+
+    Chemical       0.67      0.57      0.62     41080
+
+   micro avg       0.67      0.57      0.62     41080
+   macro avg       0.67      0.57      0.62     41080
+weighted avg       0.67      0.57      0.62     41080
+
+
+dataset:Test
+accuracy：
+0.8766534666809369
+precision_score:
+0.6633112200749928
+recall_score:
+0.5687540188949893
+f1_score0.6124041329356626
+              precision    recall  f1-score   support
+
+    Chemical       0.66      0.57      0.61     40434
+
+   micro avg       0.66      0.57      0.61     40434
+   macro avg       0.66      0.57      0.61     40434
+weighted avg       0.66      0.57      0.61     40434
+
+
+dataset:Train
+accuracy：
+0.9397099880046283
+precision_score:
+0.8395635765010814
+recall_score:
+0.7806973259942025
+f1_score0.809061106352816
+              precision    recall  f1-score   support
+
+    Chemical       0.84      0.78      0.81    122812
+
+   micro avg       0.84      0.78      0.81    122812
+   macro avg       0.84      0.78      0.81    122812
+weighted avg       0.84      0.78      0.81    122812
+
+
+dataset:Dev
+accuracy：
+0.8772698339902821
+precision_score:
+0.6472347973420168
+recall_score:
+0.5951314508276534
+f1_score0.6200905482353241
+              precision    recall  f1-score   support
+
+    Chemical       0.65      0.60      0.62     41080
+
+   micro avg       0.65      0.60      0.62     41080
+   macro avg       0.65      0.60      0.62     41080
+weighted avg       0.65      0.60      0.62     41080
+
+
+dataset:Test
+accuracy：
+0.8775532855279796
+precision_score:
+0.6462214553395702
+recall_score:
+0.5927931938467627
+f1_score0.6183553692357304
+              precision    recall  f1-score   support
+
+    Chemical       0.65      0.59      0.62     40434
+
+   micro avg       0.65      0.59      0.62     40434
+   macro avg       0.65      0.59      0.62     40434
+weighted avg       0.65      0.59      0.62     40434
+
+
+dataset:Train
+accuracy：
+0.9412094094667898
+precision_score:
+0.8309843721024327
+recall_score:
+0.8027147184314236
+f1_score0.8166049551452499
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.80      0.82    122812
+
+   micro avg       0.83      0.80      0.82    122812
+   macro avg       0.83      0.80      0.82    122812
+weighted avg       0.83      0.80      0.82    122812
+
+
+dataset:Dev
+accuracy：
+0.8781593835619146
+precision_score:
+0.6393040430592064
+recall_score:
+0.6216407010710808
+f1_score0.6303486578216599
+              precision    recall  f1-score   support
+
+    Chemical       0.64      0.62      0.63     41080
+
+   micro avg       0.64      0.62      0.63     41080
+   macro avg       0.64      0.62      0.63     41080
+weighted avg       0.64      0.62      0.63     41080
+
+
+dataset:Test
+accuracy：
+0.8788257165848109
+precision_score:
+0.6395049782282091
+recall_score:
+0.6211109462333679
+f1_score0.6301737657612445
+              precision    recall  f1-score   support
+
+    Chemical       0.64      0.62      0.63     40434
+
+   micro avg       0.64      0.62      0.63     40434
+   macro avg       0.64      0.62      0.63     40434
+weighted avg       0.64      0.62      0.63     40434
+
+
+dataset:Train
+accuracy：
+0.9412651401760029
+precision_score:
+0.844088267028645
+recall_score:
+0.7898739536853077
+f1_score0.8160817040751085
+              precision    recall  f1-score   support
+
+    Chemical       0.84      0.79      0.82    122812
+
+   micro avg       0.84      0.79      0.82    122812
+   macro avg       0.84      0.79      0.82    122812
+weighted avg       0.84      0.79      0.82    122812
+
+
+dataset:Dev
+accuracy：
+0.8786140422318601
+precision_score:
+0.6539622042242338
+recall_score:
+0.601460564751704
+f1_score0.6266135781491718
+              precision    recall  f1-score   support
+
+    Chemical       0.65      0.60      0.63     41080
+
+   micro avg       0.65      0.60      0.63     41080
+   macro avg       0.65      0.60      0.63     41080
+weighted avg       0.65      0.60      0.63     41080
+
+
+dataset:Test
+accuracy：
+0.8779932850523045
+precision_score:
+0.6517298986850615
+recall_score:
+0.5981846960478805
+f1_score0.6238103835143012
+              precision    recall  f1-score   support
+
+    Chemical       0.65      0.60      0.62     40434
+
+   micro avg       0.65      0.60      0.62     40434
+   macro avg       0.65      0.60      0.62     40434
+weighted avg       0.65      0.60      0.62     40434
+
+
+dataset:Train
+accuracy：
+0.9362878570746155
+precision_score:
+0.8202728880653584
+recall_score:
+0.7930088264990391
+f1_score0.8064104793369269
+              precision    recall  f1-score   support
+
+    Chemical       0.82      0.79      0.81    122812
+
+   micro avg       0.82      0.79      0.81    122812
+   macro avg       0.82      0.79      0.81    122812
+weighted avg       0.82      0.79      0.81    122812
+
+
+dataset:Dev
+accuracy：
+0.8715925309464412
+precision_score:
+0.6266987613459706
+recall_score:
+0.6084225900681597
+f1_score0.6174254588572416
+              precision    recall  f1-score   support
+
+    Chemical       0.63      0.61      0.62     41080
+
+   micro avg       0.63      0.61      0.62     41080
+   macro avg       0.63      0.61      0.62     41080
+weighted avg       0.63      0.61      0.62     41080
+
+
+dataset:Test
+accuracy：
+0.8708660855501777
+precision_score:
+0.62413081684114
+recall_score:
+0.6060246327348271
+f1_score0.614944475814041
+              precision    recall  f1-score   support
+
+    Chemical       0.62      0.61      0.61     40434
+
+   micro avg       0.62      0.61      0.61     40434
+   macro avg       0.62      0.61      0.61     40434
+weighted avg       0.62      0.61      0.61     40434
+
+
+dataset:Train
+accuracy：
+0.9426451386898507
+precision_score:
+0.8567176079734219
+recall_score:
+0.787398625541478
+f1_score0.8205968084790422
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.79      0.82    122812
+
+   micro avg       0.86      0.79      0.82    122812
+   macro avg       0.86      0.79      0.82    122812
+weighted avg       0.86      0.79      0.82    122812
+
+
+dataset:Dev
+accuracy：
+0.8787840450388832
+precision_score:
+0.6583829285293014
+recall_score:
+0.5978334956183058
+f1_score0.6266489755300962
+              precision    recall  f1-score   support
+
+    Chemical       0.66      0.60      0.63     41080
+
+   micro avg       0.66      0.60      0.63     41080
+   macro avg       0.66      0.60      0.63     41080
+weighted avg       0.66      0.60      0.63     41080
+
+
+dataset:Test
+accuracy：
+0.8784055368588791
+precision_score:
+0.6582126264006559
+recall_score:
+0.5956373349161597
+f1_score0.6253635230577482
+              precision    recall  f1-score   support
+
+    Chemical       0.66      0.60      0.63     40434
+
+   micro avg       0.66      0.60      0.63     40434
+   macro avg       0.66      0.60      0.63     40434
+weighted avg       0.66      0.60      0.63     40434
+
+
+dataset:Train
+accuracy：
+0.9404145833996794
+precision_score:
+0.8717274278549274
+recall_score:
+0.752898739536853
+f1_score0.8079673894522529
+              precision    recall  f1-score   support
+
+    Chemical       0.87      0.75      0.81    122812
+
+   micro avg       0.87      0.75      0.81    122812
+   macro avg       0.87      0.75      0.81    122812
+weighted avg       0.87      0.75      0.81    122812
+
+
+dataset:Dev
+accuracy：
+0.8760165574826934
+precision_score:
+0.6723815096547688
+recall_score:
+0.5594449853943525
+f1_score0.6107361148020197
+              precision    recall  f1-score   support
+
+    Chemical       0.67      0.56      0.61     41080
+
+   micro avg       0.67      0.56      0.61     41080
+   macro avg       0.67      0.56      0.61     41080
+weighted avg       0.67      0.56      0.61     41080
+
+
+dataset:Test
+accuracy：
+0.8757219361564654
+precision_score:
+0.6690138743846039
+recall_score:
+0.5545333135480042
+f1_score0.6064179366860944
+              precision    recall  f1-score   support
+
+    Chemical       0.67      0.55      0.61     40434
+
+   micro avg       0.67      0.55      0.61     40434
+   macro avg       0.67      0.55      0.61     40434
+weighted avg       0.67      0.55      0.61     40434
+
+
+dataset:Train
+accuracy：
+0.9435222338991327
+precision_score:
+0.8592845963104303
+recall_score:
+0.7957121453929583
+f1_score0.8262773846062789
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.80      0.83    122812
+
+   micro avg       0.86      0.80      0.83    122812
+   macro avg       0.86      0.80      0.83    122812
+weighted avg       0.86      0.80      0.83    122812
+
+
+dataset:Dev
+accuracy：
+0.8793968458548966
+precision_score:
+0.6595546072809708
+recall_score:
+0.6019961051606622
+f1_score0.6294622971683106
+              precision    recall  f1-score   support
+
+    Chemical       0.66      0.60      0.63     41080
+
+   micro avg       0.66      0.60      0.63     41080
+   macro avg       0.66      0.60      0.63     41080
+weighted avg       0.66      0.60      0.63     41080
+
+
+dataset:Test
+accuracy：
+0.8788138247057751
+precision_score:
+0.6600174168616992
+recall_score:
+0.5998169857050997
+f1_score0.6284788805389998
+              precision    recall  f1-score   support
+
+    Chemical       0.66      0.60      0.63     40434
+
+   micro avg       0.66      0.60      0.63     40434
+   macro avg       0.66      0.60      0.63     40434
+weighted avg       0.66      0.60      0.63     40434
+
+
+dataset:Train
+accuracy：
+0.9422099083893294
+precision_score:
+0.830733280674039
+recall_score:
+0.8221020747158259
+f1_score0.8263951413557714
+              precision    recall  f1-score   support
+
+    Chemical       0.83      0.82      0.83    122812
+
+   micro avg       0.83      0.82      0.83    122812
+   macro avg       0.83      0.82      0.83    122812
+weighted avg       0.83      0.82      0.83    122812
+
+
+dataset:Dev
+accuracy：
+0.8763407488821328
+precision_score:
+0.6366192320023676
+recall_score:
+0.6283592989289192
+f1_score0.6324622980141374
+              precision    recall  f1-score   support
+
+    Chemical       0.64      0.63      0.63     41080
+
+   micro avg       0.64      0.63      0.63     41080
+   macro avg       0.64      0.63      0.63     41080
+weighted avg       0.64      0.63      0.63     41080
+
+
+dataset:Test
+accuracy：
+0.8754523868983205
+precision_score:
+0.6335950392558883
+recall_score:
+0.62670030172627
+f1_score0.6301288108618889
+              precision    recall  f1-score   support
+
+    Chemical       0.63      0.63      0.63     40434
+
+   micro avg       0.63      0.63      0.63     40434
+   macro avg       0.63      0.63      0.63     40434
+weighted avg       0.63      0.63      0.63     40434
+
+
+dataset:Train
+accuracy：
+0.9441339447788287
+precision_score:
+0.8611538698356013
+recall_score:
+0.7971696576881738
+f1_score0.8279273908134918
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.80      0.83    122812
+
+   micro avg       0.86      0.80      0.83    122812
+   macro avg       0.86      0.80      0.83    122812
+weighted avg       0.86      0.80      0.83    122812
+
+
+dataset:Dev
+accuracy：
+0.8778707741453405
+precision_score:
+0.6552534586827626
+recall_score:
+0.5972249269717624
+f1_score0.6248949339038741
+              precision    recall  f1-score   support
+
+    Chemical       0.66      0.60      0.62     41080
+
+   micro avg       0.66      0.60      0.62     41080
+   macro avg       0.66      0.60      0.62     41080
+weighted avg       0.66      0.60      0.62     41080
+
+
+dataset:Test
+accuracy：
+0.8793806709398152
+precision_score:
+0.6596109839816934
+recall_score:
+0.598827719246179
+f1_score0.6277514194602162
+              precision    recall  f1-score   support
+
+    Chemical       0.66      0.60      0.63     40434
+
+   micro avg       0.66      0.60      0.63     40434
+   macro avg       0.66      0.60      0.63     40434
+weighted avg       0.66      0.60      0.63     40434
+
+
+dataset:Train
+accuracy：
+0.9441737524282666
+precision_score:
+0.8761575028164756
+recall_score:
+0.7788978275738527
+f1_score0.8246699225400984
+              precision    recall  f1-score   support
+
+    Chemical       0.88      0.78      0.82    122812
+
+   micro avg       0.88      0.78      0.82    122812
+   macro avg       0.88      0.78      0.82    122812
+weighted avg       0.88      0.78      0.82    122812
+
+
+dataset:Dev
+accuracy：
+0.8776177467116317
+precision_score:
+0.6651260620485429
+recall_score:
+0.585029211295034
+f1_score0.6225117532021809
+              precision    recall  f1-score   support
+
+    Chemical       0.67      0.59      0.62     41080
+
+   micro avg       0.67      0.59      0.62     41080
+   macro avg       0.67      0.59      0.62     41080
+weighted avg       0.67      0.59      0.62     41080
+
+
+dataset:Test
+accuracy：
+0.8776246368021945
+precision_score:
+0.6641236416868419
+recall_score:
+0.5834446258099619
+f1_score0.621175417346885
+              precision    recall  f1-score   support
+
+    Chemical       0.66      0.58      0.62     40434
+
+   micro avg       0.66      0.58      0.62     40434
+   macro avg       0.66      0.58      0.62     40434
+weighted avg       0.66      0.58      0.62     40434
+
+
+dataset:Train
+accuracy：
+0.9444948674670658
+precision_score:
+0.8704411128729999
+recall_score:
+0.7866657981304759
+f1_score0.8264358180356196
+              precision    recall  f1-score   support
+
+    Chemical       0.87      0.79      0.83    122812
+
+   micro avg       0.87      0.79      0.83    122812
+   macro avg       0.87      0.79      0.83    122812
+weighted avg       0.87      0.79      0.83    122812
+
+
+dataset:Dev
+accuracy：
+0.877087970522304
+precision_score:
+0.6658038298819862
+recall_score:
+0.5823028237585199
+f1_score0.6212601288177851
+              precision    recall  f1-score   support
+
+    Chemical       0.67      0.58      0.62     41080
+
+   micro avg       0.67      0.58      0.62     41080
+   macro avg       0.67      0.58      0.62     41080
+weighted avg       0.67      0.58      0.62     41080
+
+
+dataset:Test
+accuracy：
+0.8776523845199447
+precision_score:
+0.6629477559110859
+recall_score:
+0.5790176584062917
+f1_score0.618146774214841
+              precision    recall  f1-score   support
+
+    Chemical       0.66      0.58      0.62     40434
+
+   micro avg       0.66      0.58      0.62     40434
+   macro avg       0.66      0.58      0.62     40434
+weighted avg       0.66      0.58      0.62     40434
+
+
+dataset:Train
+accuracy：
+0.9462172117660796
+precision_score:
+0.8730330006294398
+recall_score:
+0.7905579259355763
+f1_score0.8297510490466709
+              precision    recall  f1-score   support
+
+    Chemical       0.87      0.79      0.83    122812
+
+   micro avg       0.87      0.79      0.83    122812
+   macro avg       0.87      0.79      0.83    122812
+weighted avg       0.87      0.79      0.83    122812
+
+
+dataset:Dev
+accuracy：
+0.8774200690290468
+precision_score:
+0.6589777267005965
+recall_score:
+0.5862463485881207
+f1_score0.6204879808311647
+              precision    recall  f1-score   support
+
+    Chemical       0.66      0.59      0.62     41080
+
+   micro avg       0.66      0.59      0.62     41080
+   macro avg       0.66      0.59      0.62     41080
+weighted avg       0.66      0.59      0.62     41080
+
+
+dataset:Test
+accuracy：
+0.8776920241167306
+precision_score:
+0.6583270577078627
+recall_score:
+0.5837414057476381
+f1_score0.6187948143196089
+              precision    recall  f1-score   support
+
+    Chemical       0.66      0.58      0.62     40434
+
+   micro avg       0.66      0.58      0.62     40434
+   macro avg       0.66      0.58      0.62     40434
+weighted avg       0.66      0.58      0.62     40434
+
+
+dataset:Train
+accuracy：
+0.946993460930119
+precision_score:
+0.854037797751273
+recall_score:
+0.813926977819757
+f1_score0.8335001000600359
+              precision    recall  f1-score   support
+
+    Chemical       0.85      0.81      0.83    122812
+
+   micro avg       0.85      0.81      0.83    122812
+   macro avg       0.85      0.81      0.83    122812
+weighted avg       0.85      0.81      0.83    122812
+
+
+dataset:Dev
+accuracy：
+0.8780684518279255
+precision_score:
+0.6496113147700388
+recall_score:
+0.6082278481012658
+f1_score0.6282388142262676
+              precision    recall  f1-score   support
+
+    Chemical       0.65      0.61      0.63     41080
+
+   micro avg       0.65      0.61      0.63     41080
+   macro avg       0.65      0.61      0.63     41080
+weighted avg       0.65      0.61      0.63     41080
+
+
+dataset:Test
+accuracy：
+0.8787266175928459
+precision_score:
+0.649542258192915
+recall_score:
+0.6053816095365286
+f1_score0.6266849294025781
+              precision    recall  f1-score   support
+
+    Chemical       0.65      0.61      0.63     40434
+
+   micro avg       0.65      0.61      0.63     40434
+   macro avg       0.65      0.61      0.63     40434
+weighted avg       0.65      0.61      0.63     40434
+
+
+dataset:Train
+accuracy：
+0.9481757481184251
+precision_score:
+0.857039304810554
+recall_score:
+0.8183157997589812
+f1_score0.8372300322815787
+              precision    recall  f1-score   support
+
+    Chemical       0.86      0.82      0.84    122812
+
+   micro avg       0.86      0.82      0.84    122812
+   macro avg       0.86      0.82      0.84    122812
+weighted avg       0.86      0.82      0.84    122812
+
+
+dataset:Dev
+accuracy：
+0.8779024025745541
+precision_score:
+0.6474926253687315
+recall_score:
+0.6091285296981499
+f1_score0.6277249579810851
+              precision    recall  f1-score   support
+
+    Chemical       0.65      0.61      0.63     41080
+
+   micro avg       0.65      0.61      0.63     41080
+   macro avg       0.65      0.61      0.63     41080
+weighted avg       0.65      0.61      0.63     41080
+
+
+dataset:Test
+accuracy：
+0.8780884200845909
+precision_score:
+0.6478228859907447
+recall_score:
+0.6093386753722115
+f1_score0.6279917416460633
+              precision    recall  f1-score   support
+
+    Chemical       0.65      0.61      0.63     40434
+
+   micro avg       0.65      0.61      0.63     40434
+   macro avg       0.65      0.61      0.63     40434
+weighted avg       0.65      0.61      0.63     40434
+

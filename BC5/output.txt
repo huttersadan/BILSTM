@@ -1,0 +1,24 @@
+classification report:
+              precision    recall  f1-score   support
+
+    Chemical       0.78      0.52      0.62      5347
+
+   micro avg       0.78      0.52      0.62      5347
+   macro avg       0.78      0.52      0.62      5347
+weighted avg       0.78      0.52      0.62      5347
+
+accuary:  0.9642404809619238
+p:  0.7701015965166909
+r:  0.4926648096564531
+f1:  0.6009060022650056
+classification report:
+              precision    recall  f1-score   support
+
+    Chemical       0.77      0.49      0.60      5385
+
+   micro avg       0.77      0.49      0.60      5385
+   macro avg       0.77      0.49      0.60      5385
+weighted avg       0.77      0.49      0.60      5385
+
+best_test_F =  0.6027397260273972
+new_test_F =  0.6009060022650056

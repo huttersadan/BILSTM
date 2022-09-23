@@ -1,0 +1,1038 @@
+
+dataset:Dev
+0.9030170208411502
+0.5129143786861907
+0.5337001375515819
+0.523100855587244
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.53      0.52      9451
+
+   micro avg       0.51      0.53      0.52      9451
+   macro avg       0.51      0.53      0.52      9451
+weighted avg       0.51      0.53      0.52      9451
+
+
+dataset:Dev
+0.9105041443531057
+0.5796330763094921
+0.46132684372024124
+0.5137571436988158
+              precision    recall  f1-score   support
+
+    Chemical       0.58      0.46      0.51      9451
+
+   micro avg       0.58      0.46      0.51      9451
+   macro avg       0.58      0.46      0.51      9451
+weighted avg       0.58      0.46      0.51      9451
+
+
+dataset:Dev
+0.9107514411433639
+0.5665736748668526
+0.47275420590413714
+0.5154294283901482
+              precision    recall  f1-score   support
+
+    Chemical       0.57      0.47      0.52      9451
+
+   micro avg       0.57      0.47      0.52      9451
+   macro avg       0.57      0.47      0.52      9451
+weighted avg       0.57      0.47      0.52      9451
+
+
+dataset:Dev
+0.9094467373878637
+0.5563178246226768
+0.47190773463125596
+0.5106480421341882
+              precision    recall  f1-score   support
+
+    Chemical       0.56      0.47      0.51      9451
+
+   micro avg       0.56      0.47      0.51      9451
+   macro avg       0.56      0.47      0.51      9451
+weighted avg       0.56      0.47      0.51      9451
+
+
+dataset:Dev
+0.9092591329262885
+0.561148250098309
+0.45296793990053963
+0.501288056206089
+              precision    recall  f1-score   support
+
+    Chemical       0.56      0.45      0.50      9451
+
+   micro avg       0.56      0.45      0.50      9451
+   macro avg       0.56      0.45      0.50      9451
+weighted avg       0.56      0.45      0.50      9451
+
+
+dataset:Dev
+0.9102739025138998
+0.5666666666666667
+0.44609036080838005
+0.4992007578000118
+              precision    recall  f1-score   support
+
+    Chemical       0.57      0.45      0.50      9451
+
+   micro avg       0.57      0.45      0.50      9451
+   macro avg       0.57      0.45      0.50      9451
+weighted avg       0.57      0.45      0.50      9451
+
+
+dataset:Dev
+0.9098219463110141
+0.5585158150851581
+0.4857687017246852
+0.5196083979401278
+              precision    recall  f1-score   support
+
+    Chemical       0.56      0.49      0.52      9451
+
+   micro avg       0.56      0.49      0.52      9451
+   macro avg       0.56      0.49      0.52      9451
+weighted avg       0.56      0.49      0.52      9451
+
+
+dataset:Dev
+0.9099072210662755
+0.5615731785944552
+0.4607977991746905
+0.5062187608973614
+              precision    recall  f1-score   support
+
+    Chemical       0.56      0.46      0.51      9451
+
+   micro avg       0.56      0.46      0.51      9451
+   macro avg       0.56      0.46      0.51      9451
+weighted avg       0.56      0.46      0.51      9451
+
+
+dataset:Dev
+0.9099413309683801
+0.5629514963880289
+0.46175007935668183
+0.5073533685985003
+              precision    recall  f1-score   support
+
+    Chemical       0.56      0.46      0.51      9451
+
+   micro avg       0.56      0.46      0.51      9451
+   macro avg       0.56      0.46      0.51      9451
+weighted avg       0.56      0.46      0.51      9451
+
+
+dataset:Dev
+0.9092932428283931
+0.5539964921072413
+0.46788699608507034
+0.5073137153674065
+              precision    recall  f1-score   support
+
+    Chemical       0.55      0.47      0.51      9451
+
+   micro avg       0.55      0.47      0.51      9451
+   macro avg       0.55      0.47      0.51      9451
+weighted avg       0.55      0.47      0.51      9451
+
+
+dataset:Dev
+0.9096769792270696
+0.5587898817846702
+0.46513596444820654
+0.5076798706548101
+              precision    recall  f1-score   support
+
+    Chemical       0.56      0.47      0.51      9451
+
+   micro avg       0.56      0.47      0.51      9451
+   macro avg       0.56      0.47      0.51      9451
+weighted avg       0.56      0.47      0.51      9451
+
+
+dataset:Dev
+0.9095575945697035
+0.5620340788072418
+0.44672521426304096
+0.4977893061368862
+              precision    recall  f1-score   support
+
+    Chemical       0.56      0.45      0.50      9451
+
+   micro avg       0.56      0.45      0.50      9451
+   macro avg       0.56      0.45      0.50      9451
+weighted avg       0.56      0.45      0.50      9451
+
+
+dataset:Dev
+0.9100777705767984
+0.5561465006648132
+0.48682679081578667
+0.5191830286617017
+              precision    recall  f1-score   support
+
+    Chemical       0.56      0.49      0.52      9451
+
+   micro avg       0.56      0.49      0.52      9451
+   macro avg       0.56      0.49      0.52      9451
+weighted avg       0.56      0.49      0.52      9451
+
+
+dataset:Test
+0.9065462572747341
+0.5079192239160563
+0.5311044405341062
+0.5192531498254314
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.53      0.52      9661
+
+   micro avg       0.51      0.53      0.52      9661
+   macro avg       0.51      0.53      0.52      9661
+weighted avg       0.51      0.53      0.52      9661
+
+
+dataset:Test
+0.9065462572747341
+0.5079192239160563
+0.5311044405341062
+0.5192531498254314
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.53      0.52      9661
+
+   micro avg       0.51      0.53      0.52      9661
+   macro avg       0.51      0.53      0.52      9661
+weighted avg       0.51      0.53      0.52      9661
+
+
+dataset:Dev
+0.9018061193164376
+0.5593594699061292
+0.528981723237598
+0.5437466451959206
+              precision    recall  f1-score   support
+
+    Chemical       0.60      0.28      0.38      4244
+     Disease       0.55      0.73      0.63      5321
+           _       0.06      0.30      0.10        10
+
+   micro avg       0.56      0.53      0.54      9575
+   macro avg       0.40      0.44      0.37      9575
+weighted avg       0.57      0.53      0.52      9575
+
+
+dataset:Dev
+0.8977299860149401
+0.5605981386594165
+0.5598955613577024
+0.5602466297418749
+              precision    recall  f1-score   support
+
+    Chemical       0.57      0.38      0.46      4244
+     Disease       0.56      0.70      0.62      5321
+           _       0.00      0.00      0.00        10
+
+   micro avg       0.56      0.56      0.56      9575
+   macro avg       0.38      0.36      0.36      9575
+weighted avg       0.56      0.56      0.55      9575
+
+
+dataset:Dev
+0.9029146911348365
+0.6041695430070413
+0.45702349869451697
+0.5203948150790819
+              precision    recall  f1-score   support
+
+    Chemical       0.64      0.31      0.42      4244
+     Disease       0.59      0.58      0.58      5321
+           _       0.04      0.20      0.07        10
+
+   micro avg       0.60      0.46      0.52      9575
+   macro avg       0.43      0.36      0.36      9575
+weighted avg       0.62      0.46      0.51      9575
+
+
+dataset:Dev
+0.8907886209366579
+0.4576255872786411
+0.5287608309844452
+0.4906281784278588
+              precision    recall  f1-score   support
+
+    Chemical       0.43      0.68      0.53      5335
+     Disease       0.55      0.34      0.42      4244
+
+   micro avg       0.46      0.53      0.49      9579
+   macro avg       0.49      0.51      0.47      9579
+weighted avg       0.48      0.53      0.48      9579
+
+
+dataset:Dev
+0.902769724050892
+0.553987211967668
+0.4793819814176845
+0.5139914931721513
+              precision    recall  f1-score   support
+
+    Chemical       0.53      0.57      0.55      5335
+     Disease       0.60      0.37      0.45      4244
+
+   micro avg       0.55      0.48      0.51      9579
+   macro avg       0.57      0.47      0.50      9579
+weighted avg       0.56      0.48      0.51      9579
+
+
+dataset:Dev
+0.9056946481563598
+0.5896792189679219
+0.4413821902077461
+0.5048659621469938
+              precision    recall  f1-score   support
+
+    Chemical       0.56      0.55      0.55      5335
+     Disease       0.67      0.31      0.42      4244
+
+   micro avg       0.59      0.44      0.50      9579
+   macro avg       0.61      0.43      0.49      9579
+weighted avg       0.61      0.44      0.50      9579
+
+
+dataset:Dev
+0.9055923184500461
+0.5830693924560898
+0.42279987472596303
+0.49016641452344933
+              precision    recall  f1-score   support
+
+    Chemical       0.54      0.51      0.53      5335
+     Disease       0.68      0.32      0.43      4244
+
+   micro avg       0.58      0.42      0.49      9579
+   macro avg       0.61      0.41      0.48      9579
+weighted avg       0.61      0.42      0.48      9579
+
+
+dataset:Dev
+0.892852270013985
+0.47540983606557374
+0.520722413613112
+0.4970355238901898
+              precision    recall  f1-score   support
+
+    Chemical       0.43      0.70      0.54      5335
+     Disease       0.66      0.30      0.41      4244
+
+   micro avg       0.48      0.52      0.50      9579
+   macro avg       0.55      0.50      0.47      9579
+weighted avg       0.54      0.52      0.48      9579
+
+
+dataset:Dev
+0.9021386908619572
+0.5789716039907905
+0.39377805616452655
+0.4687461165651796
+              precision    recall  f1-score   support
+
+    Chemical       0.55      0.51      0.53      5335
+     Disease       0.69      0.25      0.36      4244
+
+   micro avg       0.58      0.39      0.47      9579
+   macro avg       0.62      0.38      0.45      9579
+weighted avg       0.61      0.39      0.45      9579
+
+
+dataset:Dev
+0.9033922297643006
+0.5692372054106819
+0.4261405157114521
+0.48740298507462687
+              precision    recall  f1-score   support
+
+    Chemical       0.53      0.51      0.52      5335
+     Disease       0.66      0.32      0.43      4244
+
+   micro avg       0.57      0.43      0.49      9579
+   macro avg       0.60      0.41      0.48      9579
+weighted avg       0.59      0.43      0.48      9579
+
+
+dataset:Dev
+0.9011153937988198
+0.5343987305905021
+0.4922225702056582
+0.5124442995326594
+              precision    recall  f1-score   support
+
+    Chemical       0.50      0.60      0.55      5335
+     Disease       0.62      0.36      0.45      4244
+
+   micro avg       0.53      0.49      0.51      9579
+   macro avg       0.56      0.48      0.50      9579
+weighted avg       0.55      0.49      0.50      9579
+
+
+dataset:Dev
+0.9018146467919637
+0.5454329210275928
+0.47875561123290533
+0.5099238338800245
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.58      0.54      5335
+     Disease       0.64      0.35      0.45      4244
+
+   micro avg       0.55      0.48      0.51      9579
+   macro avg       0.57      0.47      0.50      9579
+weighted avg       0.57      0.48      0.50      9579
+
+
+dataset:Dev
+0.900364975952519
+0.5336577453365775
+0.480843511848836
+0.5058758923668315
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.56      0.53      5335
+     Disease       0.59      0.38      0.46      4244
+
+   micro avg       0.53      0.48      0.51      9579
+   macro avg       0.55      0.47      0.50      9579
+weighted avg       0.54      0.48      0.50      9579
+
+
+dataset:Dev
+0.9026844492956305
+0.56907659269864
+0.414970247416223
+0.47995653223858975
+              precision    recall  f1-score   support
+
+    Chemical       0.53      0.49      0.51      5335
+     Disease       0.65      0.33      0.43      4244
+
+   micro avg       0.57      0.41      0.48      9579
+   macro avg       0.59      0.41      0.47      9579
+weighted avg       0.58      0.41      0.48      9579
+
+
+dataset:Dev
+0.9048333731282191
+0.572824759060676
+0.44054702996137385
+0.4980526377906292
+              precision    recall  f1-score   support
+
+    Chemical       0.53      0.51      0.52      5335
+     Disease       0.66      0.35      0.46      4244
+
+   micro avg       0.57      0.44      0.50      9579
+   macro avg       0.60      0.43      0.49      9579
+weighted avg       0.59      0.44      0.49      9579
+
+
+dataset:Dev
+0.9040914827574444
+0.5765843799624657
+0.4169537530013571
+0.48394523203683504
+              precision    recall  f1-score   support
+
+    Chemical       0.54      0.49      0.51      5335
+     Disease       0.66      0.33      0.44      4244
+
+   micro avg       0.58      0.42      0.48      9579
+   macro avg       0.60      0.41      0.48      9579
+weighted avg       0.59      0.42      0.48      9579
+
+
+dataset:Dev
+0.9042023399392843
+0.567849985685657
+0.4141350871698507
+0.4789616661635979
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.49      0.50      5335
+     Disease       0.67      0.32      0.44      4244
+
+   micro avg       0.57      0.41      0.48      9579
+   macro avg       0.60      0.40      0.47      9579
+weighted avg       0.59      0.41      0.47      9579
+
+
+dataset:Dev
+0.9030426032677287
+0.5415056784919798
+0.48282701743397016
+0.510485651214128
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.59      0.55      5335
+     Disease       0.61      0.35      0.45      4244
+
+   micro avg       0.54      0.48      0.51      9579
+   macro avg       0.56      0.47      0.50      9579
+weighted avg       0.56      0.48      0.50      9579
+
+
+dataset:Dev
+0.9037759661629771
+0.5672322829031798
+0.4152834325086126
+0.47950819672131145
+              precision    recall  f1-score   support
+
+    Chemical       0.53      0.48      0.51      5335
+     Disease       0.65      0.33      0.44      4244
+
+   micro avg       0.57      0.42      0.48      9579
+   macro avg       0.59      0.41      0.47      9579
+weighted avg       0.58      0.42      0.48      9579
+
+
+dataset:Dev
+0.9039294607224477
+0.5560278207109737
+0.45067334794863767
+0.4978377443348902
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.55      0.54      5335
+     Disease       0.66      0.32      0.43      4244
+
+   micro avg       0.56      0.45      0.50      9579
+   macro avg       0.59      0.44      0.48      9579
+weighted avg       0.58      0.45      0.49      9579
+
+
+dataset:Dev
+0.9029658559879933
+0.5585695006747639
+0.4320910324668546
+0.4872564600623933
+              precision    recall  f1-score   support
+
+    Chemical       0.53      0.50      0.51      5335
+     Disease       0.63      0.34      0.45      4244
+
+   micro avg       0.56      0.43      0.49      9579
+   macro avg       0.58      0.42      0.48      9579
+weighted avg       0.57      0.43      0.48      9579
+
+
+dataset:Dev
+0.9018487566940683
+0.5503875968992248
+0.4447228311932352
+0.4919452624285467
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.53      0.52      5335
+     Disease       0.64      0.33      0.44      4244
+
+   micro avg       0.55      0.44      0.49      9579
+   macro avg       0.58      0.43      0.48      9579
+weighted avg       0.57      0.44      0.49      9579
+
+
+dataset:Dev
+0.9029317460858888
+0.5586699642759
+0.4244701952187076
+0.4824108678887109
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.50      0.51      5335
+     Disease       0.65      0.33      0.44      4244
+
+   micro avg       0.56      0.42      0.48      9579
+   macro avg       0.58      0.42      0.47      9579
+weighted avg       0.58      0.42      0.48      9579
+
+
+dataset:Dev
+0.9035201418971928
+0.5552159468438538
+0.4361624386679194
+0.48854069223573426
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.51      0.51      5335
+     Disease       0.65      0.34      0.45      4244
+
+   micro avg       0.56      0.44      0.49      9579
+   macro avg       0.58      0.43      0.48      9579
+weighted avg       0.57      0.44      0.48      9579
+
+
+dataset:Dev
+0.9037759661629771
+0.5633001422475107
+0.41340432195427496
+0.47684990065627064
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.48      0.50      5335
+     Disease       0.65      0.33      0.44      4244
+
+   micro avg       0.56      0.41      0.48      9579
+   macro avg       0.59      0.40      0.47      9579
+weighted avg       0.58      0.41      0.47      9579
+
+
+dataset:Dev
+0.9046628236176962
+0.5677607199576495
+0.4478546821171312
+0.5007295010213014
+              precision    recall  f1-score   support
+
+    Chemical       0.53      0.54      0.54      5335
+     Disease       0.65      0.33      0.44      4244
+
+   micro avg       0.57      0.45      0.50      9579
+   macro avg       0.59      0.44      0.49      9579
+weighted avg       0.59      0.45      0.49      9579
+
+
+dataset:Dev
+0.9039550431490262
+0.5604163921465278
+0.44399206597765944
+0.49545666356011187
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.53      0.53      5335
+     Disease       0.65      0.33      0.44      4244
+
+   micro avg       0.56      0.44      0.50      9579
+   macro avg       0.59      0.43      0.48      9579
+weighted avg       0.58      0.44      0.49      9579
+
+
+dataset:Dev
+0.9026247569669476
+0.5573451818939184
+0.4190416536172878
+0.47839818842738807
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.49      0.50      5335
+     Disease       0.64      0.33      0.44      4244
+
+   micro avg       0.56      0.42      0.48      9579
+   macro avg       0.58      0.41      0.47      9579
+weighted avg       0.57      0.42      0.47      9579
+
+
+dataset:Dev
+0.9036395265545588
+0.5563056980826357
+0.43010752688172044
+0.4851339417132764
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.51      0.51      5335
+     Disease       0.63      0.34      0.44      4244
+
+   micro avg       0.56      0.43      0.49      9579
+   macro avg       0.58      0.42      0.48      9579
+weighted avg       0.57      0.43      0.48      9579
+
+
+dataset:Dev
+0.904355834498755
+0.5726915520628684
+0.4260361206806556
+0.4885962286740497
+              precision    recall  f1-score   support
+
+    Chemical       0.53      0.51      0.52      5335
+     Disease       0.67      0.33      0.44      4244
+
+   micro avg       0.57      0.43      0.49      9579
+   macro avg       0.60      0.42      0.48      9579
+weighted avg       0.59      0.43      0.48      9579
+
+
+dataset:Dev
+0.9050465600163727
+0.5678547410894418
+0.4407558200229669
+0.4962971670389091
+              precision    recall  f1-score   support
+
+    Chemical       0.53      0.53      0.53      5335
+     Disease       0.66      0.33      0.44      4244
+
+   micro avg       0.57      0.44      0.50      9579
+   macro avg       0.60      0.43      0.48      9579
+weighted avg       0.59      0.44      0.49      9579
+
+
+dataset:Dev
+0.9041511750861275
+0.5638743455497383
+0.44973379267146885
+0.5003774899819967
+              precision    recall  f1-score   support
+
+    Chemical       0.53      0.54      0.54      5335
+     Disease       0.64      0.34      0.44      4244
+
+   micro avg       0.56      0.45      0.50      9579
+   macro avg       0.59      0.44      0.49      9579
+weighted avg       0.58      0.45      0.49      9579
+
+
+dataset:Dev
+0.9033325374356176
+0.5599173553719008
+0.42436580018791104
+0.4828077676821664
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.50      0.51      5335
+     Disease       0.66      0.33      0.44      4244
+
+   micro avg       0.56      0.42      0.48      9579
+   macro avg       0.59      0.41      0.47      9579
+weighted avg       0.58      0.42      0.48      9579
+
+
+dataset:Dev
+0.9034604495685098
+0.5614255765199161
+0.41935483870967744
+0.48010039440659735
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.49      0.51      5335
+     Disease       0.66      0.33      0.44      4244
+
+   micro avg       0.56      0.42      0.48      9579
+   macro avg       0.59      0.41      0.47      9579
+weighted avg       0.58      0.42      0.48      9579
+
+
+dataset:Dev
+0.9037930211140294
+0.568705547652916
+0.4173713331245433
+0.4814257330363056
+              precision    recall  f1-score   support
+
+    Chemical       0.53      0.49      0.51      5335
+     Disease       0.66      0.32      0.43      4244
+
+   micro avg       0.57      0.42      0.48      9579
+   macro avg       0.60      0.41      0.47      9579
+weighted avg       0.59      0.42      0.48      9579
+
+
+dataset:Dev
+0.9034689770440358
+0.5640880056777856
+0.41486585238542645
+0.47810394610202117
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.49      0.51      5335
+     Disease       0.67      0.32      0.43      4244
+
+   micro avg       0.56      0.41      0.48      9579
+   macro avg       0.59      0.40      0.47      9579
+weighted avg       0.59      0.41      0.47      9579
+
+
+dataset:Dev
+0.902130163386431
+0.5573770491803278
+0.4046351393673661
+0.4688804209762293
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.48      0.50      5335
+     Disease       0.65      0.32      0.42      4244
+
+   micro avg       0.56      0.40      0.47      9579
+   macro avg       0.58      0.40      0.46      9579
+weighted avg       0.58      0.40      0.46      9579
+
+
+dataset:Dev
+0.9025138997851077
+0.5534112530578962
+0.4250965654034868
+0.48084076282694693
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.50      0.51      5335
+     Disease       0.64      0.33      0.44      4244
+
+   micro avg       0.55      0.43      0.48      9579
+   macro avg       0.58      0.42      0.47      9579
+weighted avg       0.57      0.43      0.48      9579
+
+
+dataset:Dev
+0.9036139441279804
+0.5592612277438214
+0.43939868462261195
+0.4921368021046478
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.53      0.53      5335
+     Disease       0.65      0.32      0.43      4244
+
+   micro avg       0.56      0.44      0.49      9579
+   macro avg       0.59      0.43      0.48      9579
+weighted avg       0.58      0.44      0.49      9579
+
+
+dataset:Dev
+0.9036821639321895
+0.5623948401570387
+0.4187284685248982
+0.480043085392855
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.50      0.51      5335
+     Disease       0.66      0.32      0.43      4244
+
+   micro avg       0.56      0.42      0.48      9579
+   macro avg       0.59      0.41      0.47      9579
+weighted avg       0.58      0.42      0.47      9579
+
+
+dataset:Dev
+0.9032216802537777
+0.5581934779642516
+0.42708007098862094
+0.48391294061982487
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.51      0.52      5335
+     Disease       0.65      0.32      0.43      4244
+
+   micro avg       0.56      0.43      0.48      9579
+   macro avg       0.58      0.42      0.47      9579
+weighted avg       0.58      0.43      0.48      9579
+
+
+dataset:Dev
+0.902948801036941
+0.5540154912352222
+0.42561854055746945
+0.48140276301806584
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.50      0.51      5335
+     Disease       0.64      0.33      0.43      4244
+
+   micro avg       0.55      0.43      0.48      9579
+   macro avg       0.58      0.42      0.47      9579
+weighted avg       0.57      0.43      0.48      9579
+
+
+dataset:Dev
+0.9027441416243135
+0.5492881355932203
+0.4229042697567596
+0.4778813259407809
+              precision    recall  f1-score   support
+
+    Chemical       0.51      0.50      0.50      5335
+     Disease       0.64      0.33      0.43      4244
+
+   micro avg       0.55      0.42      0.48      9579
+   macro avg       0.58      0.41      0.47      9579
+weighted avg       0.57      0.42      0.47      9579
+
+
+dataset:Dev
+0.9038186035406078
+0.5605444085870632
+0.4170581480321537
+0.4782712797797199
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.49      0.50      5335
+     Disease       0.66      0.33      0.44      4244
+
+   micro avg       0.56      0.42      0.48      9579
+   macro avg       0.59      0.41      0.47      9579
+weighted avg       0.58      0.42      0.47      9579
+
+
+dataset:Dev
+0.9037503837363987
+0.5582134955752213
+0.4214427393256081
+0.4802807685444055
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.49      0.50      5335
+     Disease       0.66      0.33      0.44      4244
+
+   micro avg       0.56      0.42      0.48      9579
+   macro avg       0.59      0.41      0.47      9579
+weighted avg       0.58      0.42      0.48      9579
+
+
+dataset:Dev
+0.9040744278063922
+0.5606490872210953
+0.43282179768243034
+0.48851184164015554
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.52      0.52      5335
+     Disease       0.65      0.32      0.43      4244
+
+   micro avg       0.56      0.43      0.49      9579
+   macro avg       0.59      0.42      0.48      9579
+weighted avg       0.58      0.43      0.48      9579
+
+
+dataset:Dev
+0.9039720981000785
+0.5610614676414839
+0.43261300762083726
+0.4885352195697023
+              precision    recall  f1-score   support
+
+    Chemical       0.53      0.51      0.52      5335
+     Disease       0.64      0.33      0.44      4244
+
+   micro avg       0.56      0.43      0.49      9579
+   macro avg       0.58      0.42      0.48      9579
+weighted avg       0.58      0.43      0.48      9579
+
+
+dataset:Dev
+0.9033495923866699
+0.5571719918422842
+0.4278108362041967
+0.483996693043581
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.51      0.51      5335
+     Disease       0.65      0.32      0.43      4244
+
+   micro avg       0.56      0.43      0.48      9579
+   macro avg       0.59      0.42      0.47      9579
+weighted avg       0.58      0.43      0.48      9579
+
+
+dataset:Dev
+0.902889108708258
+0.5560320973990038
+0.4195636287712705
+0.47825310882370436
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.50      0.51      5335
+     Disease       0.65      0.32      0.43      4244
+
+   micro avg       0.56      0.42      0.48      9579
+   macro avg       0.58      0.41      0.47      9579
+weighted avg       0.58      0.42      0.47      9579
+
+
+dataset:Dev
+0.9031705154006208
+0.5576213260423787
+0.4258273306190625
+0.48289333491180303
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.51      0.52      5335
+     Disease       0.65      0.32      0.43      4244
+
+   micro avg       0.56      0.43      0.48      9579
+   macro avg       0.59      0.41      0.47      9579
+weighted avg       0.58      0.43      0.48      9579
+
+
+dataset:Dev
+0.9033922297643006
+0.5598897312198484
+0.42405261509552145
+0.4825947487228229
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.50      0.51      5335
+     Disease       0.65      0.32      0.43      4244
+
+   micro avg       0.56      0.42      0.48      9579
+   macro avg       0.59      0.41      0.47      9579
+weighted avg       0.58      0.42      0.48      9579
+
+
+dataset:Dev
+0.9038527134427125
+0.56054476806904
+0.4339701430211922
+0.48920270667843485
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.52      0.52      5335
+     Disease       0.65      0.33      0.44      4244
+
+   micro avg       0.56      0.43      0.49      9579
+   macro avg       0.59      0.42      0.48      9579
+weighted avg       0.58      0.43      0.48      9579
+
+
+dataset:Dev
+0.9032557901558822
+0.5572726040395825
+0.4291679716045516
+0.48490209955178104
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.51      0.52      5335
+     Disease       0.65      0.33      0.43      4244
+
+   micro avg       0.56      0.43      0.48      9579
+   macro avg       0.58      0.42      0.47      9579
+weighted avg       0.58      0.43      0.48      9579
+
+
+dataset:Dev
+0.9033751748132482
+0.5615046677649643
+0.42697567595782443
+0.48508569056514267
+              precision    recall  f1-score   support
+
+    Chemical       0.52      0.51      0.52      5335
+     Disease       0.65      0.32      0.43      4244
+
+   micro avg       0.56      0.43      0.49      9579
+   macro avg       0.59      0.42      0.47      9579
+weighted avg       0.58      0.43      0.48      9579
+
+
+dataset:Test
+0.9031828215934177
+0.5170045045045045
+0.4685171956322074
+0.49156807109588313
+              precision    recall  f1-score   support
+
+    Chemical       0.48      0.58      0.53      5375
+     Disease       0.60      0.33      0.43      4424
+
+   micro avg       0.52      0.47      0.49      9799
+   macro avg       0.54      0.46      0.48      9799
+weighted avg       0.54      0.47      0.48      9799
+
